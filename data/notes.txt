@@ -1,0 +1,127 @@
+            id: ,
+            bugalertOwner: ,
+            assignedOn: ,
+            description: ,
+            severity: ,
+            CVE: ,
+            product: ,
+            versionsIntroduced: ,
+            versionFixed: ,
+            bites: ,
+            srCaseNumbers: ,
+            lastBiteTime: ,
+            fixes: ,
+            lastFixTime: ,
+            releaseNote: 
+
+                id: bug.id,
+                bugalertOwner: bug.bugalertOwner,
+                assignedOn: bug.assignedOn,
+                description: bug.description,
+                severity: bug.severity,
+                CVE: bug.CVE,
+                product: bug.product,
+                versionsIntroduced: bug.versionsIntroduced,
+                versionFixed: bug.versionFixed,
+                bites: bug.bites,
+                srCaseNumbers: bug.srCaseNumbers,
+                lastBiteTime: bug.lastBiteTime,
+                fixes: bug.fixes,
+                fixes: bug.fixes,
+                releaseNote: bug.releaseNote
+
+                models.Bugs.bugalertOwner: db_bug.bugalertOwner,
+                models.Bugs.assignedOn: db_bug.assignedOn,
+                models.Bugs.description: db_bug.description,
+                models.Bugs.severity: db_bug.severity,
+                models.Bugs.CVE: db_bug.CVE,
+                models.Bugs.product: db_bug.product,
+                models.Bugs.versionsIntroduced: db_bug.versionsIntroduced,
+                models.Bugs.versionFixed: db_bug.versionFixed,
+                models.Bugs.bites: db_bug.bites,
+                models.Bugs.srCaseNumbers: db_bug.srCaseNumbers,
+                models.Bugs.lastBiteTime: db_bug.lastBiteTime,
+                models.Bugs.fixes: db_bug.fixes,
+                models.Bugs.lastFixTime: db_bug.lastFixTime,
+                models.Bugs.releaseNote: db_bug.releaseNote
+
+
+    id = Column(Integer, primary_key=True, index=True)
+    bugalertOwner = Column(String)
+    assignedOn = Column(String)
+    description = Column(String)
+    severity= Column(String)
+    CVE= Column(String)
+    product=Column(String)
+    versionsIntroduced=Column(String)
+    versionFixed=Column(String)
+    bites=Column(String)
+    srCaseNumbers=Column(String)
+    lastBiteTime=Column(String)
+    fixes=Column(String)
+    lastFixTime=Column(String)
+    releaseNote=Column(String)
+    createdOn=Column(DateTime, default=datetime.datetime.utcnow)
+    updatedOn=Column(DateTime, default=datetime.datetime.utcnow)
+
+
+    id:int
+    bugalertOwner:str
+    assignedOn:str
+    description:str
+    severity:str
+    CVE:str
+    product:str
+    versionsIntroduced:str
+    versionFixed:str
+    bites:str
+    srCaseNumbers:str
+    lastBiteTime:str
+    fixes:str
+    lastFixTime:str
+    releaseNote:str
+    createdOn: datetime.datetime
+    updatedOn: datetime.datetime
+
+
+
+<table>
+  <tr><th>Bug ID</th>    <td>{` ${row.id}`}</td></tr>
+  <tr><th>Owner</th>     <td>{` ${row.bugalertOwner}`}</td></tr>
+  <tr><th>Added On</th>    <td>{` ${row.added}`}</td></tr>
+  <tr><th>Description</th>    <td>{` ${row.description}`}</td></tr>
+  <tr><th>Severity</th>    <td>{` ${row.severity}`}</td>
+  </tr><tr>
+    <th>Product</th>    <td>{` ${row.product}`}</td>
+  </tr>
+  <tr>
+    <th>Versions Introduced</th>    <td>{` ${row.versionsIntroduced}`}</td>
+  </tr>
+  <tr>
+    <th>Versions Fixed</th>    <td>{` ${row.versionFixed}`}</td>
+  </tr>
+  <tr>
+    <th>CVE</th>    <td>{` ${row.CVE}`}</td>
+  </tr>
+  <tr>
+    <th>Bites</th>    <td>{` ${row.bites}`}</td>
+  </tr>
+  <tr>
+    <th>SR Case Numbers</th>    <td>{` ${row.srCaseNumbers}`}</td>
+  </tr>
+  <tr>
+    <th>Last Bite Time</th>    <td>{` ${row.lastBiteTime}`}</td>
+  </tr>
+  <tr>
+    <th>Rule</th>    <td>{` ${row.rule}`}</td>
+  </tr>
+  <tr>
+    <th>Alert Summary</th>    <td>{` ${row.alertSummary}`}</td>
+  </tr>
+  <tr>
+    <th>Release Note</th>    <td>{` ${row.releaseNote}`}</td>
+  </tr>
+  <tr>
+    <th>Supported</th>    <td>{` ${row.supported}`}</td>
+  </tr>
+</table>

@@ -1,0 +1,53 @@
+                id = bug.id,
+                bugalertOwner = bug.bugalertOwner,
+                assignedOn = bug.assignedOn,
+                description = bug.description,
+                severity = bug.severity,
+                CVE = bug.CVE,
+                product = bug.product,
+                versionsIntroduced = bug.versionsIntroduced,
+                versionFixed = bug.versionFixed,
+                bites = bug.bites,
+                srCaseNumbers = bug.srCaseNumbers,
+                lastBiteTime = bug.lastBiteTime,
+                fixes = bug.fixes,
+                fixes = bug.fixes,
+                releaseNote = bug.releaseNote
+
+
+class bugCreate(BaseModel):
+    id:int
+    bugalertOwner:str
+    assignedOn:str
+    description:str
+    severity:str
+    CVE:str
+    product:str
+    versionsIntroduced:str
+    versionFixed:str
+    bites:str
+    srCaseNumbers:str
+    lastBiteTime:str
+    fixes:str
+    lastFixTime:str
+    releaseNote:str
+    createdOn: datetime.datetime
+    updatedOn: datetime.datetime
+
+
+{` ${row.id}`}
+{` ${row.bugalertOwner}`}
+{` ${row.added}`}
+{` ${row.description}`}
+{` ${row.severity}`}
+{` ${row.product}`}
+{` ${row.versionsIntroduced}`}
+{` ${row.versionFixed}`}
+{` ${row.CVE}`}
+{` ${row.bites}`}
+{` ${row.srCaseNumbers}`}
+{` ${row.lastBiteTime}`}
+{` ${row.rule}`}
+{` ${row.alertSummary}`}
+{` ${row.releaseNote}`}
+{` ${row.supported}`}

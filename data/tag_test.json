@@ -1,0 +1,6070 @@
+[
+    {
+        "Tag": "100GBASE-CR4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "100GBASE-PSM4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "100GBASE-ZR4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7289",
+        "tag_description": "Arista 7289 chassis, 1 supervisor slot, 9 module slots"
+    },
+    {
+        "Tag": "7289-SUP",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7289-SUP-D",
+        "tag_description": "Supervisor module for 7289 series chassis"
+    },
+    {
+        "Tag": "7289-SUP-S-D",
+        "tag_description": "Supervisor module for 7289 series chassis"
+    },
+    {
+        "Tag": "7289R3A-SC",
+        "tag_description": "J2C+ x2 Switchcard"
+    },
+    {
+        "Tag": "7289R3AK-SC",
+        "tag_description": "J2C+ x2 Switchcard w/MACsec & Full MDB"
+    },
+    {
+        "Tag": "7289R3AM-SC",
+        "tag_description": "J2C+ x2 Switchcard w/MACsec"
+    },
+    {
+        "Tag": "7300-SUP",
+        "tag_description": "Supervisor module for 7300 Series chassis"
+    },
+    {
+        "Tag": "7300-SUP-D",
+        "tag_description": "Supervisor module for 7300 Series chassis, with SSD"
+    },
+    {
+        "Tag": "7300-SUP2-D",
+        "tag_description": "Supervisor-2 for 7300 Series chassis, with SSD"
+    },
+    {
+        "Tag": "7300X-32Q-LC",
+        "tag_description": "Arista 7300X-32Q linecard for 7300X Series, 32 port 40GbE QSFP+ (spare)"
+    },
+    {
+        "Tag": "7300X-64S-LC",
+        "tag_description": "Arista 7300X-64S linecard for 7300X Series, 48 port 10GbE SFP+ and 4 port 40GbE QSFP+ (spare)"
+    },
+    {
+        "Tag": "7300X-64T-LC",
+        "tag_description": "Arista 7300X-64T linecard for 7300X Series, 48 port RJ45 10GBASE-T and 4 port 40GbE QSFP+ (spare)"
+    },
+    {
+        "Tag": "7300X3-32C-LC",
+        "tag_description": "Arista 7300X3 32-port 100GbE QSFP linecard for 7300X3 Series"
+    },
+    {
+        "Tag": "7300X3-48TC4-LC",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7300X3-48YC4-LC",
+        "tag_description": "Arista 7300X3 48-port 25GbE SFP & 4 port 100GbE QSFP linecard for 7300X3 Series"
+    },
+    {
+        "Tag": "7304X-FM",
+        "tag_description": "Fabric-X (integrated fans) module for 7304 chassis, required for slots 1-4"
+    },
+    {
+        "Tag": "7304X3-FM",
+        "tag_description": "Gen3 fabric for 4-slot Sequoia chassis"
+    },
+    {
+        "Tag": "7304X3-FM2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7308X-FM",
+        "tag_description": "Fabric-X (integrated fans) module for 7308 chassis, required for slots 1-4"
+    },
+    {
+        "Tag": "7308X3-FM",
+        "tag_description": "Gen3 fabric for 8-slot Sequoia chassis"
+    },
+    {
+        "Tag": "7308X3-FM2",
+        "tag_description": "Gen3 fabric for 8-slot Sequoia chassis"
+    },
+    {
+        "Tag": "7316X-FM",
+        "tag_description": "Fabric-X (integrated fans) module for 7316 chassis, required for slots 1-4"
+    },
+    {
+        "Tag": "7320X-32C-LC",
+        "tag_description": "Arista 7320X-32C linecard for 7320X Series, 32 port 100GbE QSFP (Spare)"
+    },
+    {
+        "Tag": "7324X-FM",
+        "tag_description": "7320X Fabric (integrated fans) module for 7304 chassis, required for slots 1-4"
+    },
+    {
+        "Tag": "7328X-FM",
+        "tag_description": "7320X Fabric (integrated fans) module for 7308 chassis, required for slots 1-4"
+    },
+    {
+        "Tag": "7358-16C",
+        "tag_description": "Arista 7358X-16C module for 7358X Series, 16 port 100GbE QSFP"
+    },
+    {
+        "Tag": "7358X4-SC",
+        "tag_description": "7358X Switch Card for 7368 chassis, 7358X4-SC, includes Fans (rear-to-front air) Ships in chassis"
+    },
+    {
+        "Tag": "7368",
+        "tag_description": "Arista 7368 chassis, 1 supervisor slot, 8 module slots"
+    },
+    {
+        "Tag": "7368-16C",
+        "tag_description": "Arista 7368X-16C module for 7368X Series, 16 port 100GbE QSFP"
+    },
+    {
+        "Tag": "7368-16S",
+        "tag_description": "Arista 7368X-16S module for 7368X Series, 16 port 25GbE SFP"
+    },
+    {
+        "Tag": "7368-4D",
+        "tag_description": "Arista 7368X-4D module for 7368X Series, 4 port 400GbE QSFP-DD"
+    },
+    {
+        "Tag": "7368-4P",
+        "tag_description": "Arista 7368X-4P module for 7368X Series, 4 port 400GbE OSFP"
+    },
+    {
+        "Tag": "7368-SUP",
+        "tag_description": "Supervisor module for 7368 Series"
+    },
+    {
+        "Tag": "7368-SUP-D",
+        "tag_description": "Supervisor module for 7368 Series, with SSD"
+    },
+    {
+        "Tag": "7368X4-SC",
+        "tag_description": "7368X Switch Card for 7368 chassis, X4-SC"
+    },
+    {
+        "Tag": "7388",
+        "tag_description": "4RU Switch Chassis. 1 Supervisor slot, 8 Linecard slots, 1 Switchcard slot"
+    },
+    {
+        "Tag": "7388-16CD",
+        "tag_description": "Arista 7388X-16CD module for 7388X Series, 16 port 200GbE QSFP100-DD (Spare)"
+    },
+    {
+        "Tag": "7388-16CD2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7388-8D",
+        "tag_description": "Arista 7388X-8D module for 7388X Series, 8 port 400GbE QSFP-DD with MACsec (Spare)"
+    },
+    {
+        "Tag": "7388-SUP",
+        "tag_description": "Supervisor module for 7388 Series, with SSD and no BMC"
+    },
+    {
+        "Tag": "7388-SUP-D",
+        "tag_description": "Supervisor module for 7388 Series, with SSD"
+    },
+    {
+        "Tag": "7388X5-SC",
+        "tag_description": "Arista 7388X5 Switch Card for 7388 chassis, includes Fans and PSU (front-to-rear air) Ships in chassis"
+    },
+    {
+        "Tag": "7500E-12CM-LC",
+        "tag_description": "12 port 100GbE SR10 Embedded MXP wire-speed line card for 7500E Series"
+    },
+    {
+        "Tag": "7500E-12CQ-LC",
+        "tag_description": "12 port 100GbE QSFP wire-speed line card for 7500E Series"
+    },
+    {
+        "Tag": "7500E-36Q-LC",
+        "tag_description": "36 port 40GbE QSFP+ wire-speed line card for 7500E Series"
+    },
+    {
+        "Tag": "7500E-48S-LC",
+        "tag_description": "48 port 1/10GbE SFP+ wire-speed line card for 7500E Series"
+    },
+    {
+        "Tag": "7500E-48T-LC",
+        "tag_description": "48 port RJ45 10GBASE-T wire-speed line card for 7500E Series"
+    },
+    {
+        "Tag": "7500E-6C2-LC",
+        "tag_description": "6 port 100GbE CFP2 wire-speed line card for 7500E Series"
+    },
+    {
+        "Tag": "7500E-6CFPX-LC",
+        "tag_description": "6 port 100GbE DWDM Coherent CFP2 wire-speed line card with MACsec encryption for 7500E Series"
+    },
+    {
+        "Tag": "7500E-72S-LC",
+        "tag_description": "48 port 10GbE SFP+ & 2 x 100GbE SR10 Embedded MXP wire-speed line card for 7500E Series"
+    },
+    {
+        "Tag": "7500R-36CQ-LC",
+        "tag_description": "7500R Series 36 port 100GbE QSFP100 wirespeed line card"
+    },
+    {
+        "Tag": "7500R-36Q-LC",
+        "tag_description": "7500R Series 36 port 40GbE QSFP+ (6 port 100GbE) wirespeed line card"
+    },
+    {
+        "Tag": "7500R-48S2CQ-LC",
+        "tag_description": "7500R Series 48 port 1/10GbE SFP+ and 2 port 100GbE QSFP wirespeed line card"
+    },
+    {
+        "Tag": "7500R-8CFPX-LC",
+        "tag_description": "7500R Series 8 port 200G Tunable Coherent DWDM, with MACsec line card"
+    },
+    {
+        "Tag": "7500R2-18CQ-LC",
+        "tag_description": "7500R2 Series 18 port 100GbE QSFP100 wirespeed line card"
+    },
+    {
+        "Tag": "7500R2-36CQ-LC",
+        "tag_description": "7500R2 Series 36 port 100GbE QSFP100 wirespeed line card"
+    },
+    {
+        "Tag": "7500R2A-36CQ-LC",
+        "tag_description": "7500R2 Series 36 port 100GbE QSFP100 AlgoMatch wirespeed line card"
+    },
+    {
+        "Tag": "7500R2AK-36CQ-LC",
+        "tag_description": "7500R2 Series 36 port 100GbE QSFP100 AlgoMatch, 2M routes, wirespeed line card"
+    },
+    {
+        "Tag": "7500R2AK-48YCQ-LC",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7500R2AM-36CQ-LC",
+        "tag_description": "7500R2 Series 36 port 100GbE QSFP100 AlgoMatch, MACsec, wirespeed line card"
+    },
+    {
+        "Tag": "7500R2M-36CQ-LC",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7500R3-24D-LC",
+        "tag_description": "7500R3 Series 24 port 400GbE QSFP-DD wirespeed line card"
+    },
+    {
+        "Tag": "7500R3-24P-LC",
+        "tag_description": "7500R3 Series 24 port 400GbE OSFP wirespeed line card"
+    },
+    {
+        "Tag": "7500R3-36CQ-LC",
+        "tag_description": "7500R3 Series 36 port 100GbE QSFP100 wirespeed line card"
+    },
+    {
+        "Tag": "7500R3-48Y4D-LC",
+        "tag_description": "7500R3 Series 48 port 25GbE SFP and 4 port 400GbE wirespeed line card"
+    },
+    {
+        "Tag": "7500R3K-36CQ-LC",
+        "tag_description": "7500R3 Series 36 port 100GbE QSFP100 wirespeed line card, large routes"
+    },
+    {
+        "Tag": "7500R3K-48Y4D-LC",
+        "tag_description": "48-port SFP and 4-port QSFP-DD Linecard with large routes"
+    },
+    {
+        "Tag": "7500RM-36CQ-LC",
+        "tag_description": "7500R Series 36 port 100GbE QSFP100 with MACsec, wirespeed line card (Ships in chassis)"
+    },
+    {
+        "Tag": "7504E-FM",
+        "tag_description": "Fabric-E (integrated fan) Module for 7504-E Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7504R-FM",
+        "tag_description": "7500R Series Fabric (integrated fan) Module for 7504 and 7504N Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7504R3-FM",
+        "tag_description": "7500R3 Series Fabric (integrated fan) Module for 7504N Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7508E-FM",
+        "tag_description": "Fabric-E (integrated fan) Module for 7508-E Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7508R-FM",
+        "tag_description": "7500R Series Fabric (integrated fan) Module for 7508 and 7508N Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7508R3-FM",
+        "tag_description": "7500R3 Series Fabric (integrated fan) Module for 7508N Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7512R-FM",
+        "tag_description": "7500R Series Fabric (integrated fan) Module for 7512 Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7512R3-FM",
+        "tag_description": "7500R3 Series Fabric (integrated fan) Module for 7512N Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7516R-FM",
+        "tag_description": "7500R Series Fabric (integrated fan) Module for 7516 Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7548S-LC",
+        "tag_description": "48 port 1/10GbE SFP+ wire-speed line card for 7500 Series, 1st gen"
+    },
+    {
+        "Tag": "7800R3-36D-LC",
+        "tag_description": "7800R3 Series 36 port 400GbE QSFP-DD wirespeed line card"
+    },
+    {
+        "Tag": "7800R3-36P-LC",
+        "tag_description": "7800R3 Series 36 port 400GbE OSFP wirespeed line card"
+    },
+    {
+        "Tag": "7800R3-48CQ-LC",
+        "tag_description": "7800R3 Series 48 port 100GbE QSFP wirespeed line card"
+    },
+    {
+        "Tag": "7800R3-48CQ2-LC",
+        "tag_description": "7800R3 Series 48 port 100GbE QSFP line-card with CPU"
+    },
+    {
+        "Tag": "7800R3-48CQM-LC",
+        "tag_description": "7800R3 Series 48 port 100GbE QSFP with MACsec wirespeed line card"
+    },
+    {
+        "Tag": "7800R3-48CQM2-LC",
+        "tag_description": "7800R3 Series 48 port 100GbE QSFP with Enh MACSec line-card with CPU"
+    },
+    {
+        "Tag": "7800R3-48CQMS-LC",
+        "tag_description": "7800R3 Series 48 port 100GbE QSFP with Enh MACSec line-card without CPU"
+    },
+    {
+        "Tag": "7800R3A-36D-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE QSFP-DD wirespeed line card (Ships in chassis)"
+    },
+    {
+        "Tag": "7800R3A-36D2-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE QSFP-DD line card with CPU (spare)"
+    },
+    {
+        "Tag": "7800R3A-36DM-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE QSFP-DD with Enh MACsec wirespeed line card (Ships in chassis)"
+    },
+    {
+        "Tag": "7800R3A-36DM2-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE QSFP-DD with Enh MACsec line card with CPU"
+    },
+    {
+        "Tag": "7800R3A-36P-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE OSFP wirespeed line card (Ships in chassis)"
+    },
+    {
+        "Tag": "7800R3A-36PM-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE OSFP with Enh MACsec wirespeed line card (Ships in chassis)"
+    },
+    {
+        "Tag": "7800R3AK-36DM-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE QSFP-DD with Enh MACsec and large routes line card (Spare)"
+    },
+    {
+        "Tag": "7800R3AK-36DM2-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE QSFP-DD with Enh MACsec and large routes line card with CPU"
+    },
+    {
+        "Tag": "7800R3AK-36PM-LC",
+        "tag_description": "7800R3A Series 36 port 400GbE OSFP with Enh MACsec and large routes line card (Spare)"
+    },
+    {
+        "Tag": "7800R3K-36DM-LC",
+        "tag_description": "7800R3 Series 36 port 400GbE QSFP-DD with MACsec wirespeed line card"
+    },
+    {
+        "Tag": "7800R3K-48CQ-LC",
+        "tag_description": "7800R3 Series 48 port 100GbE QSFP, 2.5M routes wirespeed line card"
+    },
+    {
+        "Tag": "7800R3K-72Y-LC",
+        "tag_description": "7800R3 Series 72 port 25GbE SFP wirespeed line card, large routes"
+    },
+    {
+        "Tag": "7804R3-FM",
+        "tag_description": "7800R3 Series Fabric Module for 7804R3 Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "7808R3-FM",
+        "tag_description": "7800R3 Series Fabric Module for 7808 Chassis"
+    },
+    {
+        "Tag": "7808R3-FM2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7812R3-FM",
+        "tag_description": "12-slot Fabric"
+    },
+    {
+        "Tag": "7816R3-FM",
+        "tag_description": "7800R3 Series Fabric Module for 7816 Chassis, required for fabric slots 1-6"
+    },
+    {
+        "Tag": "ADPT-O-Q-100G",
+        "tag_description": "OSFP to QSFP100 Adapter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-10M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 10 meter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-15M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 15 meter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-1M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 1 meter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-20M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 20 meter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-25M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 25 meter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-30M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 30 meter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-3M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 3 meter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-5M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 5 meter"
+    },
+    {
+        "Tag": "AOC-D-D-400G-7M",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 7 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-10M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 10 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-15M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 15 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-1M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 1 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-20M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 20 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-25M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 25 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-30M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 30 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-3M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 3 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-5M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 5 meter"
+    },
+    {
+        "Tag": "AOC-O-O-400G-7M",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 7 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-100G-10M",
+        "tag_description": "100GbE QSFP100 to QSFP100 Active Optical Cable, 10m"
+    },
+    {
+        "Tag": "AOC-Q-Q-100G-15M",
+        "tag_description": "100GbE QSFP100 to QSFP100 Active Optical Cable, 15m"
+    },
+    {
+        "Tag": "AOC-Q-Q-100G-20M",
+        "tag_description": "100GbE QSFP100 to QSFP100 Active Optical Cable, 20m"
+    },
+    {
+        "Tag": "AOC-Q-Q-100G-25M",
+        "tag_description": "100GbE QSFP100 to QSFP100 Active Optical Cable, 25m"
+    },
+    {
+        "Tag": "AOC-Q-Q-100G-30M",
+        "tag_description": "100GbE QSFP100 to QSFP100 Active Optical Cable, 30m"
+    },
+    {
+        "Tag": "AOC-Q-Q-100G-3M",
+        "tag_description": "100GbE QSFP100 to QSFP100 Active Optical Cable, 3m"
+    },
+    {
+        "Tag": "AOC-Q-Q-100G-5M",
+        "tag_description": "100GbE QSFP100 to QSFP100 Active Optical Cable, 5m"
+    },
+    {
+        "Tag": "AOC-Q-Q-100G-7M",
+        "tag_description": "100GbE QSFP100 to QSFP100 Active Optical Cable, 7m"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-100M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 100 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-10M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 10 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-15M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 15 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-20M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 20 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-25M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 25 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-30M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 30 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-3M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 3 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-50M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 50 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-5M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 5 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-75M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 75 meter"
+    },
+    {
+        "Tag": "AOC-Q-Q-40G-7M",
+        "tag_description": "QSFP+ to QSFP+ 40GbE Active Optical Cable 7 meter"
+    },
+    {
+        "Tag": "AOC-S-S-10G-10M",
+        "tag_description": "SFP+ to SFP+ 10GbE Active Optical Cable 10 meter"
+    },
+    {
+        "Tag": "AOC-S-S-10G-15M",
+        "tag_description": "SFP+ to SFP+ 10GbE Active Optical Cable 15 meter"
+    },
+    {
+        "Tag": "AOC-S-S-10G-20M",
+        "tag_description": "SFP+ to SFP+ 10GbE Active Optical Cable 20 meter"
+    },
+    {
+        "Tag": "AOC-S-S-10G-25M",
+        "tag_description": "SFP+ to SFP+ 10GbE Active Optical Cable 25 meter"
+    },
+    {
+        "Tag": "AOC-S-S-10G-30M",
+        "tag_description": "SFP+ to SFP+ 10GbE Active Optical Cable 30 meter"
+    },
+    {
+        "Tag": "AOC-S-S-10G-3M",
+        "tag_description": "SFP+ to SFP+ 10GbE Active Optical Cable 3 meter"
+    },
+    {
+        "Tag": "AOC-S-S-10G-5M",
+        "tag_description": "SFP+ to SFP+ 10GbE Active Optical Cable 5 meter"
+    },
+    {
+        "Tag": "AOC-S-S-10G-7M",
+        "tag_description": "SFP+ to SFP+ 10GbE Active Optical Cable 7 meter"
+    },
+    {
+        "Tag": "AP-6810",
+        "tag_description": "WiFi Panasonic 11ax AP"
+    },
+    {
+        "Tag": "AP120",
+        "tag_description": "WiFi WG 11ac Wave1 AP"
+    },
+    {
+        "Tag": "AP125",
+        "tag_description": "WiFi WG 11ac Wave2 AP"
+    },
+    {
+        "Tag": "AP225W",
+        "tag_description": "WiFi WG 11ac Wave2 AP"
+    },
+    {
+        "Tag": "AP320",
+        "tag_description": "WiFi WG 11ac Wave1 AP"
+    },
+    {
+        "Tag": "AP322",
+        "tag_description": "WiFi WG 11ac Wave1 AP"
+    },
+    {
+        "Tag": "AP325",
+        "tag_description": "WiFi WG 11ac Wave2 AP"
+    },
+    {
+        "Tag": "AP327X",
+        "tag_description": "WiFi WG 11ac Wave2 AP"
+    },
+    {
+        "Tag": "AP420",
+        "tag_description": "WiFi WG 11ac Wave2 AP"
+    },
+    {
+        "Tag": "AP530",
+        "tag_description": "WiFi WG 11ax AP"
+    },
+    {
+        "Tag": "AWE-5300-550-A-PS",
+        "tag_description": ""
+    },
+    {
+        "Tag": "AWE-5310",
+        "tag_description": "Cognitive WAN Branch Router"
+    },
+    {
+        "Tag": "C-100",
+        "tag_description": "WiFi 11ac Wave2 AP"
+    },
+    {
+        "Tag": "C-110",
+        "tag_description": "WiFi 11ac Wave2 AP"
+    },
+    {
+        "Tag": "C-120",
+        "tag_description": "WiFi 11ac Wave2 AP"
+    },
+    {
+        "Tag": "C-130",
+        "tag_description": "WiFi 11ac Wave2 AP"
+    },
+    {
+        "Tag": "C-130E",
+        "tag_description": "WiFi 11ac Wave2 AP"
+    },
+    {
+        "Tag": "C-200",
+        "tag_description": "WiFi 11ax AP"
+    },
+    {
+        "Tag": "C-230",
+        "tag_description": "WiFi 11ax AP"
+    },
+    {
+        "Tag": "C-230E",
+        "tag_description": "WiFi 11ax AP"
+    },
+    {
+        "Tag": "C-250",
+        "tag_description": "WiFi 11ax AP"
+    },
+    {
+        "Tag": "C-260",
+        "tag_description": "WiFi 11ax AP"
+    },
+    {
+        "Tag": "C-360",
+        "tag_description": "WiFi 6E AP"
+    },
+    {
+        "Tag": "C-50",
+        "tag_description": "WiFi 11n AP"
+    },
+    {
+        "Tag": "C-55",
+        "tag_description": "WiFi 11n AP"
+    },
+    {
+        "Tag": "C-60",
+        "tag_description": "WiFi 11n AP"
+    },
+    {
+        "Tag": "C-65",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "C-75",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "C-75-R32",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "C-75-R64",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "C-75E",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "C-75P",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "C-95",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "CAB-C19-C20",
+        "tag_description": "Power cord, C19 to C20 (2m)"
+    },
+    {
+        "Tag": "CAB-C19-L6-20",
+        "tag_description": "Power cord, C19 to L6-20 (2.5m)"
+    },
+    {
+        "Tag": "CAB-D-2Q-200G-1M",
+        "tag_description": "QSFP-DD to 2 x 100G QSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-D-2Q-200G-2.5",
+        "tag_description": "QSFP-DD to 2 x 100G QSFP Twinax Copper Cable 2.5 meter"
+    },
+    {
+        "Tag": "CAB-D-2Q-200G-2M",
+        "tag_description": "QSFP-DD to 2 x 100G QSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-D-2Q-400G-1M",
+        "tag_description": "QSFP-DD to 2 x 200G QSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-D-2Q-400G-2.5",
+        "tag_description": "QSFP-DD to 2 x 200G QSFP Twinax Copper Cable 2.5 meter"
+    },
+    {
+        "Tag": "CAB-D-2Q-400G-2M",
+        "tag_description": "QSFP-DD to 2 x 200G QSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-D-4Q-200G-1M",
+        "tag_description": "QSFP-DD to 4 x 50G QSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-D-4Q-200G-2.5",
+        "tag_description": "QSFP-DD to 4 x 50G QSFP Twinax Copper Cable 2.5 meter"
+    },
+    {
+        "Tag": "CAB-D-4Q-200G-2M",
+        "tag_description": "QSFP-DD to 4 x 50G QSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-D-4Q-400G-1M",
+        "tag_description": "QSFP-DD to 4 x 100G-CR2, PAM-4, QSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-D-4Q-400G-2.5",
+        "tag_description": "QSFP-DD to 4 x 100G-CR2, PAM-4, QSFP Twinax Copper Cable 2.5 meter"
+    },
+    {
+        "Tag": "CAB-D-4Q-400G-2M",
+        "tag_description": "QSFP-DD to 4 x 100G-CR2, PAM-4, QSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-D-8S-200G-1M",
+        "tag_description": "QSFP-DD to 8 x 25G SFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-D-8S-200G-2.5",
+        "tag_description": "QSFP-DD to 8 x 25G SFP Twinax Copper Cable 2.5 meter"
+    },
+    {
+        "Tag": "CAB-D-8S-200G-2M",
+        "tag_description": "QSFP-DD to 8 x 25G SFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-D-8S-400G",
+        "tag_description": "400GBASE-CR8 QSFP-DD to 8 x 50GBASE-CR SFP Twinax Copper Cable"
+    },
+    {
+        "Tag": "CAB-D-D-400G-1M",
+        "tag_description": "400G-CR8 QSFP-DD TO QSFP-DD Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-D-D-400G-2.5",
+        "tag_description": "400G-CR8 QSFP-DD TO QSFP-DD Twinax Copper Cable 2.5 meter"
+    },
+    {
+        "Tag": "CAB-D-D-400G-2M",
+        "tag_description": "400G-CR8 QSFP-DD TO QSFP-DD Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-O-2Q-200G-1M",
+        "tag_description": "OSFP to 2 x 100G QSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-O-2Q-200G-2M",
+        "tag_description": "OSFP to 2 x 100G QSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-O-2Q-200G-3M",
+        "tag_description": "OSFP to 2 x 100G QSFP Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-O-2Q-400G-1M",
+        "tag_description": "OSFP to 2 x 200G QSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-O-2Q-400G-2M",
+        "tag_description": "OSFP to 2 x 200G QSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-O-2Q-400G-3M",
+        "tag_description": "OSFP to 2 x 200G QSFP Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-O-4Q-200G-1M",
+        "tag_description": "OSFP to 4 x 50G QSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-O-4Q-200G-2M",
+        "tag_description": "OSFP to 4 x 50G QSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-O-4Q-200G-3M",
+        "tag_description": "OSFP to 4 x 50G QSFP Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-O-4Q-400G-1M",
+        "tag_description": "OSFP to 4 x 100G-CR2, PAM-4, QSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-O-4Q-400G-2M",
+        "tag_description": "OSFP to 4 x 100G-CR2, PAM-4, QSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-O-4Q-400G-3M",
+        "tag_description": "OSFP to 4 x 100G-CR2, PAM-4, QSFP Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-O-8S-200G-1M",
+        "tag_description": "OSFP to 8 x 25G SFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-O-8S-200G-2M",
+        "tag_description": "OSFP to 8 x 25G SFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-O-8S-200G-3M",
+        "tag_description": "OSFP to 8 x 25G SFP Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-O-8S-400G",
+        "tag_description": "400GBASE-CR8 OSFP to 8 x 50GBASE-CR SFP Twinax Copper Cable"
+    },
+    {
+        "Tag": "CAB-O-O-400G-1M",
+        "tag_description": "400G OSFP TO OSFP Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-O-O-400G-2M",
+        "tag_description": "400G OSFP TO OSFP Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-O-O-400G-3M",
+        "tag_description": "400G OSFP TO OSFP Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-Q-2Q-100G-0.5M",
+        "tag_description": "100G QSFP100 TO 2 x 50G QSFP twinax copper cable 0.5 meter"
+    },
+    {
+        "Tag": "CAB-Q-2Q-100G-1M",
+        "tag_description": "100G QSFP100 TO 2 x 50G QSFP twinax copper cable 1 meter"
+    },
+    {
+        "Tag": "CAB-Q-2Q-100G-2M",
+        "tag_description": "100G QSFP100 TO 2 x 50G QSFP twinax copper cable 2 meter"
+    },
+    {
+        "Tag": "CAB-Q-2Q-100G-3M",
+        "tag_description": "100G QSFP100 TO 2 x 50G QSFP twinax copper cable 3 meter"
+    },
+    {
+        "Tag": "CAB-Q-2Q-100G-5M",
+        "tag_description": "100G QSFP100 TO 2 x 50G QSFP twinax copper cable 5 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-0.5M",
+        "tag_description": "40GBASE-CR4 QSFP+ to QSFP+ Twinax Copper Cable 0.5 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-100G-0.5",
+        "tag_description": "100GBASE-CR4 QSFP to QSFP Twinax Copper Cable 0.5 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-100G-1M",
+        "tag_description": "100GBASE-CR4 QSFP100 to QSFP100 Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-100G-2M",
+        "tag_description": "100GBASE-CR4 QSFP100 to QSFP100 Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-100G-3M",
+        "tag_description": "100GBASE-CR4 QSFP100 to QSFP100 Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-100G-5M",
+        "tag_description": "100GBASE-CR4 QSFP100 to QSFP100 Twinax Copper Cable 5 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-1M",
+        "tag_description": "40GBASE-CR4 QSFP+ to QSFP+ Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-2M",
+        "tag_description": "40GBASE-CR4 QSFP+ to QSFP+ Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-3M",
+        "tag_description": "40GBASE-CR4 QSFP+ to QSFP+ Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-Q-Q-5M",
+        "tag_description": "40GBASE-CR4 QSFP+ to QSFP+ Twinax Copper Cable 5 meter"
+    },
+    {
+        "Tag": "CAB-Q-S-0.5M",
+        "tag_description": "4 x 10GbE QSFP+ to 4 x SFP+ Twinax Copper Cable 0.5 meter"
+    },
+    {
+        "Tag": "CAB-Q-S-1M",
+        "tag_description": "4 x 10GbE QSFP+ to 4 x SFP+ Twinax Copper Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-Q-S-2M",
+        "tag_description": "4 x 10GbE QSFP+ to 4 x SFP+ Twinax Copper Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-Q-S-3M",
+        "tag_description": "4 x 10GbE QSFP+ to 4 x SFP+ Twinax Copper Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-Q-S-5M",
+        "tag_description": "4 x 10GbE QSFP+ to 4 x SFP+ Twinax Copper Cable 5 meter"
+    },
+    {
+        "Tag": "CAB-SFP-SFP-0.5M",
+        "tag_description": "10GBASE-CR SFP+ Cable 0.5 meter"
+    },
+    {
+        "Tag": "CAB-SFP-SFP-1.5M",
+        "tag_description": "10GBASE-CR SFP+ Cable 1.5 meter"
+    },
+    {
+        "Tag": "CAB-SFP-SFP-1M",
+        "tag_description": "10GBASE-CR SFP+ Cable 1 meter"
+    },
+    {
+        "Tag": "CAB-SFP-SFP-2.5M",
+        "tag_description": "10GBASE-CR SFP+ Cable 2.5 meter"
+    },
+    {
+        "Tag": "CAB-SFP-SFP-2M",
+        "tag_description": "10GBASE-CR SFP+ Cable 2 meter"
+    },
+    {
+        "Tag": "CAB-SFP-SFP-3M",
+        "tag_description": "10GBASE-CR SFP+ Cable 3 meter"
+    },
+    {
+        "Tag": "CAB-SFP-SFP-5M",
+        "tag_description": "10GBASE-CR SFP+ Cable 5 meter"
+    },
+    {
+        "Tag": "CCS-710P-12",
+        "tag_description": ""
+    },
+    {
+        "Tag": "CCS-710P-16P",
+        "tag_description": ""
+    },
+    {
+        "Tag": "CCS-720DF-48Y",
+        "tag_description": "48-port SFP & 4-port SFP28 Ethernet Switch (1PS)"
+    },
+    {
+        "Tag": "CCS-720DF-48Y-2",
+        "tag_description": "48-port SFP & 4-port SFP28 Ethernet Switch (2PS)"
+    },
+    {
+        "Tag": "CCS-720DP-24S",
+        "tag_description": "24-port 1000BASE-T PoE & 4-port SFP+ Ethernet Switch (1PS)"
+    },
+    {
+        "Tag": "CCS-720DP-24S-2",
+        "tag_description": "24-port 1000BASE-T PoE & 4-port SFP+ Ethernet Switch (2PS)"
+    },
+    {
+        "Tag": "CCS-720DP-24ZS",
+        "tag_description": "24-port 2.5G PoE & 4-port SFP+ Switch (1PS)"
+    },
+    {
+        "Tag": "CCS-720DP-24ZS-2F",
+        "tag_description": "24-port 2.5G PoE & 4-port SFP+ Switch (2PS)"
+    },
+    {
+        "Tag": "CCS-720DP-48S",
+        "tag_description": "48-port 1000BASE-T PoE & 4-port SFP+ Ethernet Switch (1PS)"
+    },
+    {
+        "Tag": "CCS-720DP-48S-2",
+        "tag_description": "48-port 1000BASE-T PoE & 4-port SFP+ Ethernet Switch (2PS)"
+    },
+    {
+        "Tag": "CCS-720DT-24S",
+        "tag_description": "24-port 1000BASE-T & 4-port SFP+ Ethernet Switch (1PS)"
+    },
+    {
+        "Tag": "CCS-720DT-24S-2",
+        "tag_description": "24-port 1000BASE-T & 4-port SFP+ Ethernet Switch (2PS)"
+    },
+    {
+        "Tag": "CCS-720DT-48S-2",
+        "tag_description": "48-port 1000BASE-T & 4-port SFP+ Ethernet Switch (2PS)"
+    },
+    {
+        "Tag": "CCS-720XP-24Y6",
+        "tag_description": "Arista 720XP, 24 x 10/100M-1G PoE, 6 x 25G SFP switch"
+    },
+    {
+        "Tag": "CCS-720XP-24Y6-2",
+        "tag_description": "1RU 24 1Gb-T PoE, 6 SFP25 Ethernet Switch, 2x AC"
+    },
+    {
+        "Tag": "CCS-720XP-24ZY4",
+        "tag_description": "Arista 720XP, 16 x 100M-2.5G PoE, 8 x 100M-5G PoE, 4 x 25G SFP switch"
+    },
+    {
+        "Tag": "CCS-720XP-24ZY4-2",
+        "tag_description": "1RU 16 2.5Gb-T PoE, 8 5Gb-T PoE, 4 SFP25, 2 QSFP100 Ethernet Switch, 2x AC"
+    },
+    {
+        "Tag": "CCS-720XP-48Y6",
+        "tag_description": "Arista 720XP, 48 x 10/100M-1G PoE, 6 x 25G SFP switch"
+    },
+    {
+        "Tag": "CCS-720XP-48Y6-2",
+        "tag_description": "1RU 48 1Gb-T PoE, 6 SFP25 Ethernet Switch, 2x AC"
+    },
+    {
+        "Tag": "CCS-720XP-48ZC2",
+        "tag_description": "Arista 720XP, 40 x 100M-2.5G PoE, 8 x 100M-5G PoE, 4 x 25G SFP, 2 x 100G QSFP switch"
+    },
+    {
+        "Tag": "CCS-720XP-48ZC2-2",
+        "tag_description": "1 RU switch with 40 2.5Gb-T PoE, 8 5Gb-T PoE, 4 SFP25, 2 QSFP100, 2x AC"
+    },
+    {
+        "Tag": "CCS-720XP-96ZC2",
+        "tag_description": "Arista 720XP, 48x2.5G, 4x25G SFP/2x100G QSFP switch"
+    },
+    {
+        "Tag": "CCS-720XP-96ZC2-2",
+        "tag_description": "Arista 720XP, 80x2.5G, 16x5G POE, 4x25G SFP/2x100G QSFP switch, AC"
+    },
+    {
+        "Tag": "CCS-720XP-96ZC2-4",
+        "tag_description": "Arista 720XP, 80x2.5G, 16x5G POE, 4x25G SFP/2x100G QSFP switch, 4x AC"
+    },
+    {
+        "Tag": "CCS-722XPM-48Y4",
+        "tag_description": "Arista 722XP, 48x1G POE, 2x10G SFP, 4x25G SFP MACsec switch, AC"
+    },
+    {
+        "Tag": "CCS-722XPM-48Y4-2",
+        "tag_description": "Arista 722XP, 48x1G POE, 2x10G SFP, 4x25G SFP MACsec switch, AC"
+    },
+    {
+        "Tag": "CCS-722XPM-48ZY8",
+        "tag_description": "Arista 722XP, 48x2.5G POE, 6x25G SFP MACsec switch, AC"
+    },
+    {
+        "Tag": "CCS-722XPM-48ZY8-2",
+        "tag_description": "Arista 722XP, 48x2.5G POE, 6x25G SFP MACsec switch, AC"
+    },
+    {
+        "Tag": "CCS-750-SUP100",
+        "tag_description": "Arista 750 Series Supervisor module with QSFP100"
+    },
+    {
+        "Tag": "CCS-750-SUP100-CLK",
+        "tag_description": "Arista 750 Series Supervisor module with QSFP100 and Clock"
+    },
+    {
+        "Tag": "CCS-750-SUP25",
+        "tag_description": "Arista 750 Series Supervisor module with SFP25"
+    },
+    {
+        "Tag": "CCS-750-SUP25-CLK",
+        "tag_description": "Arista 750 Series Supervisor module with SFP25 and Clock"
+    },
+    {
+        "Tag": "CCS-750X-48THP-LC",
+        "tag_description": ""
+    },
+    {
+        "Tag": "CCS-750X-48TP-LC",
+        "tag_description": "Arista 750 Series 48 port 1G PoE (30W) linecard"
+    },
+    {
+        "Tag": "CCS-750X-48ZP-LC",
+        "tag_description": "Arista 750 Series 48 port mGig PoE (60W) linecard"
+    },
+    {
+        "Tag": "CCS-750X-48ZXP-LC",
+        "tag_description": "Arista 750 Series 48 port 10G-T PoE (60W) linecard"
+    },
+    {
+        "Tag": "CCS-755-CH",
+        "tag_description": "Arista 750 Series 5 Slot Chassis, 2 Sup slots, 5 linecard slots, 8 PS slots"
+    },
+    {
+        "Tag": "CCS-755-X3-SC",
+        "tag_description": "Arista 755 X3 Switch Card for CCS-755 Chassis includes uplink module"
+    },
+    {
+        "Tag": "CCS-758-CH",
+        "tag_description": "Arista 750 Series 8 Slot Chassis, 2 Sup slots, 8 linecard slots, 10 PS slots"
+    },
+    {
+        "Tag": "CCS-758-X3-SC",
+        "tag_description": "Arista 758 X3 Switch Card for CCS-758 Chassis includes uplink module"
+    },
+    {
+        "Tag": "CFP2-100G-DWDM-DCO",
+        "tag_description": "100G/200G Digital Coherent Tunable CFP2, DP-QPSK, 8QAM and 16QAM modulation"
+    },
+    {
+        "Tag": "CFP2-100G-ER4",
+        "tag_description": "100GBASE-ER4 CFP2 Optics Module, up to 40km over duplex SMF"
+    },
+    {
+        "Tag": "CFP2-100G-LR4",
+        "tag_description": "100GBASE-LR4 CFP2 Optics Module, up to 10km over duplex SMF"
+    },
+    {
+        "Tag": "CFP2-100G-XSR10",
+        "tag_description": "100GBASE-XSR10 CFP2 Optics Module, up to 300m over OM3 MMF or 400m over OM4 MMF"
+    },
+    {
+        "Tag": "CFP2-200G-DCO-A",
+        "tag_description": "100G/200G Coherent Tunable CFP2, Digital Interface, DP-QPSK, 8QAM and 16QAM modulation with gridless tuning and Nyquist shaping"
+    },
+    {
+        "Tag": "CFPX-100G-DWDM",
+        "tag_description": "100G Coherent Tunable CFP2, Analog interface, DP-QPSK modulation"
+    },
+    {
+        "Tag": "CFPX-200G-DWDM",
+        "tag_description": "100G/200G Coherent Tunable CFP2, Linear Interface, DP-QPSK, 8QAM and 16QAM modulation with Gridless tuning and Nyquist Shaping"
+    },
+    {
+        "Tag": "DC-01",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "DCS-7010T-48",
+        "tag_description": "1RU 48-port 1000BASE-T + 4 port SFP+ Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7010T-48-DC",
+        "tag_description": "1RU 48-port 1000BASE-T + 4 port SFP+ Ethernet Switch with DC Power Supply"
+    },
+    {
+        "Tag": "DCS-7010TX-48",
+        "tag_description": "Arista 7010TX, 48x 10/100/1000 RJ45 & 4 x SFP+ (1/10GbE) switch, 2xAC"
+    },
+    {
+        "Tag": "DCS-7010TX-48-DC",
+        "tag_description": "Arista 7010TX, 48x 10/100/1000 RJ45 & 4 x SFP+ (1/10GbE) switch, 2xDC PSU"
+    },
+    {
+        "Tag": "DCS-7020SR-24C2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7020SR-32C2",
+        "tag_description": "Arista 7020SR, 32x10GbE (SFP+) and 2 x 100GbE switch"
+    },
+    {
+        "Tag": "DCS-7020SRG-24C2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7020TR-48",
+        "tag_description": "Arista 7020R switch 48xRJ45 (100/1000Mb), 6xSFP+(1/10GbE)"
+    },
+    {
+        "Tag": "DCS-7020TRA-48",
+        "tag_description": "Arista 7020RA switch 48xRJ45 (100/1000), 6xSFP+(1/10GbE), AlgoMatch"
+    },
+    {
+        "Tag": "DCS-7048T-4S",
+        "tag_description": "1RU 48-port 1000BASE-T + 4 port SFP+ Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7048T-A",
+        "tag_description": "Arista 7048-A switch 48xRJ45(100/1000), 4xSFP+(1 or 10GbE), ZTP"
+    },
+    {
+        "Tag": "DCS-7050CX3-32S",
+        "tag_description": "Arista 7050X3, 32x100GbE QSFP+ & 2xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050CX3-32S-SSD",
+        "tag_description": "Arista 7050X3, 32x100GbE QSFP+ & 2xSFP+ switch, SSD, 2xAC, 2xC13 - C14 cords"
+    },
+    {
+        "Tag": "DCS-7050CX3M-32S",
+        "tag_description": "Arista 7050X3, 32x100GbE QSFP+ & 2xSFP+ switch, MACsec"
+    },
+    {
+        "Tag": "DCS-7050DX4-32S",
+        "tag_description": "Arista 7050X4, 32x400GbE QSFP-DD & 2xSFP+ switch, front-to-rear air, 2xAC"
+    },
+    {
+        "Tag": "DCS-7050PX4-32S",
+        "tag_description": "Arista 7050X4, 32x400GbE OSFP & 2xSFP+ switch, front-to-rear air, 2xAC"
+    },
+    {
+        "Tag": "DCS-7050Q-16",
+        "tag_description": "Arista 7050, 16xQSFP+ & 8xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050Q-16-SSD",
+        "tag_description": "1RU 16-port QSFP+ + 4-port SFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050QX-32",
+        "tag_description": "1RU 32-port QSFP+ Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7050QX-32-SSD",
+        "tag_description": "1RU 32-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050QX-32S",
+        "tag_description": "Arista 7050X, 32xQSFP+ & 4xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050QX-32S-SSD",
+        "tag_description": "1RU 32-port QSFP+ + 4-port SFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050QX2-32S",
+        "tag_description": "Arista 7050X2, 32xQSFP+ & 4xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050S-52",
+        "tag_description": "Arista 7050, 52xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050S-52-SSD",
+        "tag_description": "1RU 48-port SFP+ + 4-port SFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050S-64",
+        "tag_description": "Arista 7050, 48xSFP+ & 4xQSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050S-64-SSD",
+        "tag_description": "1RU 48-port SFP+ + 4-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050SPX4-48D8",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7050SX-128",
+        "tag_description": "Arista 7050, 96x10GbE (SFP+) & 8xQSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050SX-128-SSD",
+        "tag_description": "2RU 96-port SFP+ + 8-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050SX-64",
+        "tag_description": "Arista 7050X, 48xSFP+ & 4xQSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050SX-64-SSD",
+        "tag_description": "1RU 48-port SFP+ + 4-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050SX-72",
+        "tag_description": "Arista 7050X, 48xSFP+ & 6x40GbE (2x MXP) switch"
+    },
+    {
+        "Tag": "DCS-7050SX-72-SSD",
+        "tag_description": "48x10GbE (SFP+) & 6x40GbE (2xMXP) Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050SX-72Q",
+        "tag_description": "Arista 7050X, 48xSFP+ & 6x40GbE QSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050SX-96",
+        "tag_description": "Arista 7050X, 48xSFP+ & 12x40GbE (4x MXP) switch"
+    },
+    {
+        "Tag": "DCS-7050SX-96-SSD",
+        "tag_description": "48x10GbE (SFP+) & 12x40GbE (4xMXP) Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050SX2-128",
+        "tag_description": "Arista 7050X2, 96x10GbE (SFP+) & 8xQSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050SX2-72Q",
+        "tag_description": "Arista 7050X2, 48x10GbE (SFP+) & 6x40GbE QSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050SX3-48C8",
+        "tag_description": "Arista 7050X3, 48x10GbE SFP & 8x100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7050SX3-48YC12",
+        "tag_description": "Arista 7050X3, 48x25GbE SFP & 12x100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7050SX3-48YC8",
+        "tag_description": "Arista 7050X3, 48x25GbE SFP & 8x100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7050SX3-96YC8",
+        "tag_description": "Arista 7050X3, 96x25GbE SFP & 8x100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7050T-36",
+        "tag_description": "Arista 7050, 32xRJ45(1/10GBASE-T) & 4xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050T-52",
+        "tag_description": "Arista 7050, 48xRJ45(1/10GBASE-T) & 4xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050T-52-SSD",
+        "tag_description": "1RU 48-port 10GBASE-T + 4 port SFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050T-64",
+        "tag_description": "Arista 7050, 48xRJ45(1/10GBASE-T) & 4xQSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050T-64-SSD",
+        "tag_description": "1RU 48-port 10GBASE-T + 4-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050TX-128",
+        "tag_description": "Arista 7050X, 96x10GbE (1/10GBASE-T) & 8xQSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050TX-128-SSD",
+        "tag_description": "2RU 96-port 10GBaseT + 8-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050TX-48",
+        "tag_description": "1RU 32-port 10GBASE-T + 4-port QSFP+ Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7050TX-48-SSD",
+        "tag_description": "1RU 32-port 10GBASE-T + 4-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050TX-64",
+        "tag_description": "1RU 48-port 10GBASE-T + 4-port QSFP+ Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7050TX-64-SSD",
+        "tag_description": "1RU 48-port 10GBASE-T + 4-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7050TX-72",
+        "tag_description": "Arista 7050X, 48x10GbE (1/10GBASE-T) & 6x40GbE (2xMXP) switch"
+    },
+    {
+        "Tag": "DCS-7050TX-72-SSD",
+        "tag_description": "Arista 7050X, 48x10GbE (1/10GBASE-T) & 6x40GbE (2xMXP) switch, SSD"
+    },
+    {
+        "Tag": "DCS-7050TX-72Q",
+        "tag_description": "Arista 7050X, 48x10GbE (1/10GBASE-T) & 6x40GbE QSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050TX-96",
+        "tag_description": "Arista 7050X, 48x10GbE (1/10GBASE-T) & 12x40GbE (4xMXP) switch"
+    },
+    {
+        "Tag": "DCS-7050TX-96-SSD",
+        "tag_description": "1RU 48-port 10GBASE-T + 4-port 100G Ethernet Switchwith SSD disk"
+    },
+    {
+        "Tag": "DCS-7050TX2-128",
+        "tag_description": "Arista 7050X2, 96x10GbE (1/10GBASE-T) & 8xQSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7050TX3-48C8",
+        "tag_description": "Arista 7050X3, 48x10GBaseT & 8x100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7060CX-32C",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7060CX-32S",
+        "tag_description": "Arista 7060X, 32x100GbE QSFP & 2xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7060CX2-32S",
+        "tag_description": "Arista 7060X2, 32x100GbE QSFP & 2xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7060DX4-32",
+        "tag_description": "Arista 7060X4, 32x400GbE QSFP-DD switch"
+    },
+    {
+        "Tag": "DCS-7060DX4-32-D",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7060DX4-32S",
+        "tag_description": "Arista 7060X4S, 32x400GbE QSFP-DD switch"
+    },
+    {
+        "Tag": "DCS-7060DX4-32S-MON",
+        "tag_description": "Fanspinner Rackmon module for Arista 7060X4S, 32x400GbE QSFP-DD switch"
+    },
+    {
+        "Tag": "DCS-7060DX4-32S-MON2",
+        "tag_description": "Fanspinner Rackmon2 w/BMC module for Arista 7060X4S, 32x400GbE QSFP-DD switch"
+    },
+    {
+        "Tag": "DCS-7060DX4-32S-PEM",
+        "tag_description": "Power Entry Module for Arista 7060X4S, 32x400GbE QSFP-DD switch"
+    },
+    {
+        "Tag": "DCS-7060DX5-64",
+        "tag_description": "32 x 800G QSFP-DD with 1500W PSU"
+    },
+    {
+        "Tag": "DCS-7060DX5-64S",
+        "tag_description": "Arista 7060X5S, 64x400GbE QSFP-DD switch, front-to-rear air, 2xAC"
+    },
+    {
+        "Tag": "DCS-7060PX4-32",
+        "tag_description": "Arista 7060X4, 32x400GbE OSFP switch"
+    },
+    {
+        "Tag": "DCS-7060PX5-64E",
+        "tag_description": "32 x 800G OSFP with 2400W PSU"
+    },
+    {
+        "Tag": "DCS-7060SX2-48YC6",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7120T-4S",
+        "tag_description": "1RU 20-port 10GBASE-T + 4 port SFP+ Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7124FX",
+        "tag_description": "1RU 24-port SFP+ 10Gb Ethernet Switch with SSD disk and 160Gb Application Engine FPGA"
+    },
+    {
+        "Tag": "DCS-7124FX-CL",
+        "tag_description": "1RU 24-port SFP+ 10Gb Ethernet Switch with SSD disk, 160Gb Application Engine FPGA, and Clock module"
+    },
+    {
+        "Tag": "DCS-7124S",
+        "tag_description": "1RU 24-port SFP+ 10Gb Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7124SX",
+        "tag_description": "1RU 24-port SFP+ 10Gb Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7124SX-SSD",
+        "tag_description": "1RU 24-port SFP+ 10Gb Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7130LBR-48S6QD",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7140T-8S",
+        "tag_description": "1RU 40-port 10GBASE-T + 8 port SFP+ Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7148S",
+        "tag_description": "1RU 48-port SFP+ 10Gb Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7148SX",
+        "tag_description": "1RU 48-port SFP+ 10Gb Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7150S-24",
+        "tag_description": "Arista 7150, 24x1/10G SFP+ switch"
+    },
+    {
+        "Tag": "DCS-7150S-24-CL",
+        "tag_description": "Arista 7150, 24x1/10G SFP+ switch, high precision clock"
+    },
+    {
+        "Tag": "DCS-7150S-24-CL-SSD",
+        "tag_description": "1RU 24-port SFP+ Ethernet Switch with Clock module and SSD disk"
+    },
+    {
+        "Tag": "DCS-7150S-52-CL",
+        "tag_description": "Arista 7150, 52x1/10G SFP+ switch, high precision clock"
+    },
+    {
+        "Tag": "DCS-7150S-52-CL-SSD",
+        "tag_description": "1RU 52-port SFP+ Ethernet Switch with Clock module and SSD disk"
+    },
+    {
+        "Tag": "DCS-7150S-64-CL",
+        "tag_description": "Arista 7150, 48x1/10G SFP+ & 4xQSFP+ switch, high precision clock"
+    },
+    {
+        "Tag": "DCS-7150S-64-CL-SSD",
+        "tag_description": "1RU 48-port SFP+ + 4-port QSFP+ Ethernet Switch with Clock module and SSD disk"
+    },
+    {
+        "Tag": "DCS-7150SC-24-CLD",
+        "tag_description": "Arista 7150SC, 24x1/10G SFP+ switch, high precision clock, 120GB SSD"
+    },
+    {
+        "Tag": "DCS-7150SC-64-CLD",
+        "tag_description": "Arista 7150SC, 48x1/10G SFP+ & 4xQSFP+ switch, high precision clock, 120GB SSD"
+    },
+    {
+        "Tag": "DCS-7160-32CQ",
+        "tag_description": "Arista 7160, High Capacity 32 x 100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7160-48TC6",
+        "tag_description": "Arista 7160, High Capacity 48x10GbE RJ45 (1/10G) and 6 x 100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7160-48YC6",
+        "tag_description": "Arista 7160, High Capacity 48 x 25GbE SFP and 6 x 100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7170-32C",
+        "tag_description": "Arista 7170, Programmable 32 x 100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7170-32C-M",
+        "tag_description": "Arista 7170, Programmable 32 x 100GbE QSFP switch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7170-32CD",
+        "tag_description": "Arista 7170 Dual, Programmable 32 x 100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7170-64C",
+        "tag_description": "Arista 7170, Programmable 64 x 100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7170-64C-M",
+        "tag_description": "Arista 7170, Programmable 64 x 100GbE QSFP switch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7170B-64C",
+        "tag_description": "Arista 7170B, Programmable 64 x 100GbE QSFP switch, front to rear air, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7250QX-64",
+        "tag_description": "Arista 7250, 64xQSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7250QX-64-M",
+        "tag_description": "2RU 64-port QSFP+ Ethernet Switch"
+    },
+    {
+        "Tag": "DCS-7250QX-64-SSD",
+        "tag_description": "2RU 64-port QSFP+ Ethernet Switch with SSD disk"
+    },
+    {
+        "Tag": "DCS-7260CX-64",
+        "tag_description": "Arista 7260X, 64x100GbE QSFP & 2xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7260CX-64-SSD",
+        "tag_description": "Arista 7260X, 64x100GbE QSFP & 2xSFP+ switch, SSD"
+    },
+    {
+        "Tag": "DCS-7260CX3-64",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7260CX3-64E",
+        "tag_description": "Arista 7260X3, 64x100GbE QSFP & 2xSFP+ Enhanced switch"
+    },
+    {
+        "Tag": "DCS-7260CX3-64LQ",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7260QX-64",
+        "tag_description": "Arista 7260X, 64x40GbE QSFP+ & 2xSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7260QX-64-SSD",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280CR-48",
+        "tag_description": "Arista 7280R, 48x100GbE QSFP and 8x40GbE QSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7280CR-48-SSD",
+        "tag_description": "Arista 7280R, 48x100GbE QSFP and 8x40GbE QSFP+ switch, SSD"
+    },
+    {
+        "Tag": "DCS-7280CR2-60",
+        "tag_description": "Arista 7280R2, 60x100GbE QSFP switch router"
+    },
+    {
+        "Tag": "DCS-7280CR2A-30",
+        "tag_description": "Arista 7280R2, 30x100GbE QSFP switch, AlgoMatch, expn mem"
+    },
+    {
+        "Tag": "DCS-7280CR2A-60",
+        "tag_description": "Arista 7280R2, 60x100GbE QSFP switch router, AlgoMatch"
+    },
+    {
+        "Tag": "DCS-7280CR2K-30",
+        "tag_description": "Arista 7280R2, 30x100GbE QSFP switch, AlgoMatch-2, expn mem"
+    },
+    {
+        "Tag": "DCS-7280CR2K-60",
+        "tag_description": "Arista 7280R2, 60x100GbE QSFP switch router, AlgoMatch-2"
+    },
+    {
+        "Tag": "DCS-7280CR2M-30",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280CR3-32D4",
+        "tag_description": "Arista 7280R3, 32x100GbE QSFP and 4x400GbE QSFP-DD switch router"
+    },
+    {
+        "Tag": "DCS-7280CR3-32D4-M",
+        "tag_description": "Arista 7280R3, 32x100GbE QSFP and 4x400GbE QSFP-DD switch router, expn mem"
+    },
+    {
+        "Tag": "DCS-7280CR3-32P4",
+        "tag_description": "Arista 7280R3, 32x100GbE QSFP and 4x400GbE OSFP switch router"
+    },
+    {
+        "Tag": "DCS-7280CR3-32P4-M",
+        "tag_description": "Arista 7280R3, 32x100GbE QSFP and 4x400GbE OSFP switch router, expn mem"
+    },
+    {
+        "Tag": "DCS-7280CR3-36S",
+        "tag_description": "Arista 7280R3, 36x100GbE QSFP/2x400G switch router, MACsec, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280CR3-96",
+        "tag_description": "Arista 7280R3, 96x100GbE QSFP switch router"
+    },
+    {
+        "Tag": "DCS-7280CR3K-32D4",
+        "tag_description": "Arista 7280R3, 32x100GbE QSFP and 4x400GbE QSFP-DD switch router, large route"
+    },
+    {
+        "Tag": "DCS-7280CR3K-32D4A",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280CR3K-32P4",
+        "tag_description": "Arista 7280R3, 32x100GbE QSFP and 4x400GbE OSFP switch router, large route"
+    },
+    {
+        "Tag": "DCS-7280CR3K-32P4A",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280CR3K-36A",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280CR3K-36S",
+        "tag_description": "Arista 7280R3, 36x100GbE QSFP/2x400G switch router, MACsec, large routes, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280CR3K-96",
+        "tag_description": "Arista 7280R3, 96x100GbE QSFP switch router, large routes"
+    },
+    {
+        "Tag": "DCS-7280CR3MK-32D4",
+        "tag_description": "Arista 7280R3, 32x100GbE QSFP and 4x400GbE QSFP-DD switch router, MACsec, large route"
+    },
+    {
+        "Tag": "DCS-7280CR3MK-32D4S",
+        "tag_description": "Arista 7280R3S, 32x100GbE QSFP and 4x400GbE QSFP-DD switch router, MACsec, large route"
+    },
+    {
+        "Tag": "DCS-7280CR3MK-32P4",
+        "tag_description": "Arista 7280R3, 32x100GbE QSFP and 4x400GbE OSFP switch router, MACsec, large route"
+    },
+    {
+        "Tag": "DCS-7280CR3MK-32P4S",
+        "tag_description": "Arista 7280R3S, 32x100GbE QSFP and 4x400GbE OSFP switch router, MACsec, large route, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280CR3MK-96",
+        "tag_description": "Arista 7280R3, 96x100GbE QSFP switch router, MACsec, large routes"
+    },
+    {
+        "Tag": "DCS-7280DR3-24",
+        "tag_description": "Arista 7280R3, 24x400GbE QSFP-DD switch router"
+    },
+    {
+        "Tag": "DCS-7280DR3-24-M",
+        "tag_description": "Arista 7280R3, 24x400GbE QSFP-DD switch router, expn mem"
+    },
+    {
+        "Tag": "DCS-7280DR3A-36",
+        "tag_description": "Arista 7280R3A, 36x400GbE QSFP-DD switch router, front to rear air, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280DR3A-54",
+        "tag_description": "Arista 7280R3A, 54x400GbE QSFP-DD switch router, front to rear air, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280DR3AK-36",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280DR3AK-36S",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280DR3AK-54",
+        "tag_description": "Arista 7280R3A, 54x400GbE QSFP-DD switch router, large routes, front to rear air, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280DR3AM-36",
+        "tag_description": "Arista 7280R3A, 36x400GbE QSFP-DD switch router, Enh MACsec, front to rear air, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280DR3AM-54",
+        "tag_description": "Arista 7280R3A, 54x400GbE QSFP-DD switch router, Enh MACsec, front to rear air, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280DR3K-24",
+        "tag_description": "Arista 7280R3, 24x400GbE QSFP-DD switch router, large routes"
+    },
+    {
+        "Tag": "DCS-7280PR3-24",
+        "tag_description": "Arista 7280R3, 24x400GbE OSFP switch router"
+    },
+    {
+        "Tag": "DCS-7280PR3-24-M",
+        "tag_description": "Arista 7280R3, 24x400GbE OSFP switch router, expn mem"
+    },
+    {
+        "Tag": "DCS-7280PR3K-24",
+        "tag_description": "Arista 7280R3, 24x400GbE OSFP switch router, large route"
+    },
+    {
+        "Tag": "DCS-7280QR-C36",
+        "tag_description": "Arista 7280R, 24x40GbE QSFP+ & 12x100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7280QR-C36-M",
+        "tag_description": "Arista 7280R, 24x40GbE QSFP+ & 12x100GbE QSFP switch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280QR-C72",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280QR-C72-M",
+        "tag_description": "Arista 7280R, 72x40GbE QSFP+ with 16x100GbE QSFP switch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280QRA-C36S",
+        "tag_description": "Arista 7280RA, 36x40GbE QSFP+ / 18 x 40GbE & 12x100GbE switch router, AlgoMatch"
+    },
+    {
+        "Tag": "DCS-7280QRA-C36S-M",
+        "tag_description": "Arista 7280RA, 36x40GbE QSFP+ / 18 x 40GbE & 12x100GbE switch router, AlgoMatch, epxn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280SE-64",
+        "tag_description": "Arista 7280E, 48xSFP+ & 4x40GbE QSFP+ switch"
+    },
+    {
+        "Tag": "DCS-7280SE-68",
+        "tag_description": "Arista 7280E, 48xSFP+ & 2x100GbE (QSFP100) switch"
+    },
+    {
+        "Tag": "DCS-7280SE-72",
+        "tag_description": "Arista 7280E, 48xSFP+ & 2x100GbE (multimode MXP) switch"
+    },
+    {
+        "Tag": "DCS-7280SR-48C6",
+        "tag_description": "Arista 7280R, 48x10GbE (SFP+) & 6x100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7280SR-48C6-M",
+        "tag_description": "Arista 7280R, 48x10GbE (SFP+) & 6x100GbE QSFP switch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280SR2-48YC6",
+        "tag_description": "Arista 7280R2, 48 25GbE SFP and 6 x 100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7280SR2-48YC6-M",
+        "tag_description": "Arista 7280R2, 48 25GbE SFP and 6 x 100GbE QSFP switch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280SR2A-48YC6",
+        "tag_description": "Arista 7280R2, 48x25GbE SFP and 6 x 100GbE QSFP switch, AlgoMatch"
+    },
+    {
+        "Tag": "DCS-7280SR2A-48YC6-M",
+        "tag_description": "Arista 7280R2, 48x25GbE SFP and 6 x 100GbE QSFP switch, AlgoMatch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280SR2K-48C6",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280SR2K-48C6-M",
+        "tag_description": "Arista 7280R2, 24x10GbE, 24x25GbE & 6x100GbE QSFP switch router, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280SR3-40YC6",
+        "tag_description": "Arista 7280R3, 40x25GbE SFP and 6x100G QSFP switch router, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280SR3-48YC8",
+        "tag_description": "Arista 7280R3, 48x25GbE SFP and 8x100G QSFP switch router, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280SR3E-40YC6",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280SR3K-48YC8",
+        "tag_description": "Arista 7280R3, 48x25GbE SFP and 8x100G QSFP switch router, large routes"
+    },
+    {
+        "Tag": "DCS-7280SR3K-48YC8A",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280SR3M-48YC8",
+        "tag_description": "Arista 7280R3, 48x25GbE SFP and 8x100G QSFP switch router, MACsec, large routes, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280SRA-48C6",
+        "tag_description": "Arista 7280RA, 48x10GbE (SFP+) & 6x100GbE QSFP switch router, AlgoMatch"
+    },
+    {
+        "Tag": "DCS-7280SRA-48C6-M",
+        "tag_description": "Arista 7280RA, 48x10GbE (SFP+) & 6x100GbE QSFP switch router, AlgoMatch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280SRAM-48C6",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280SRM-40CX2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280TR-48C6",
+        "tag_description": "Arista 7280R, 48x10GbE RJ45 (1/10G) & 6x100GbE QSFP switch"
+    },
+    {
+        "Tag": "DCS-7280TR-48C6-M",
+        "tag_description": "Arista 7280R, 48x10GbE RJ45 (1/10G) & 6x100GbE QSFP switch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7280TR3-40C6",
+        "tag_description": "Arista 7280R3, 40x10GbE RJ45 and 6x100G QSFP switch router, front to rear air, 2 x AC"
+    },
+    {
+        "Tag": "DCS-7280TRA-48C6",
+        "tag_description": "Arista 7280RA, 48x10GbE RJ45 (1/10G) & 6x100GbE QSFP switch router, AlgoMatch"
+    },
+    {
+        "Tag": "DCS-7280TRA-48C6-M",
+        "tag_description": "Arista 7280RA, 48x10GbE RJ45 (1/10G) & 6x100GbE QSFP switch router, AlgoMatch, expn mem, SSD"
+    },
+    {
+        "Tag": "DCS-7304",
+        "tag_description": "Switch Chassis. 2 Supervisor slots, 4 Linecard slots, 4 Fabric Module slots."
+    },
+    {
+        "Tag": "DCS-7308",
+        "tag_description": "Switch Chassis. 2 Supervisor slots, 8 Linecard slots, 4 Fabric Module slots."
+    },
+    {
+        "Tag": "DCS-7316",
+        "tag_description": "Switch Chassis. 2 Supervisor slots, 16 Linecard slots, 4 Fabric Module slots."
+    },
+    {
+        "Tag": "DCS-7500-SUP",
+        "tag_description": "Supervisor module for 7500"
+    },
+    {
+        "Tag": "DCS-7500-SUP2",
+        "tag_description": "Supervisor-2 module for 7500 Series (spare)"
+    },
+    {
+        "Tag": "DCS-7500-SUP2-D",
+        "tag_description": "Supervisor-2 module for 7500 Series, with SSD (spare)"
+    },
+    {
+        "Tag": "DCS-7500E-SUP",
+        "tag_description": "Supervisor module for 7500E series chassis, two required for redundancy"
+    },
+    {
+        "Tag": "DCS-7500E-SUP-D",
+        "tag_description": "Supervisor module for 7500E series chassis with 100GB SSD, two required for redundancy"
+    },
+    {
+        "Tag": "DCS-7504",
+        "tag_description": "Switch Chassis. 2 Supervisor slots, 4 Linecard slots, 6 Fabric Module slots."
+    },
+    {
+        "Tag": "DCS-7504N",
+        "tag_description": "Arista 7504N chassis, 2 supervisor slots, 4 line card slots, 6 fabric slots, AC or DC power (ordered separately)"
+    },
+    {
+        "Tag": "DCS-7508",
+        "tag_description": "Switch Chassis. 2 Supervisor slots, 8 Linecard slots, 6 Fabric Module slots."
+    },
+    {
+        "Tag": "DCS-7508N",
+        "tag_description": "Arista 7508N chassis, 2 supervisor slots, 8 line card slots, 6 fabric slots, AC or DC power (ordered separately)"
+    },
+    {
+        "Tag": "DCS-7512N",
+        "tag_description": "Arista 7512N chassis, 2 supervisor slots, 12 line card slots, 6 fabric slots, AC or DC power (ordered separately)"
+    },
+    {
+        "Tag": "DCS-7516-SUP2",
+        "tag_description": "Supervisor-2 module for 7516 Series (spare)"
+    },
+    {
+        "Tag": "DCS-7516-SUP2-D",
+        "tag_description": "Supervisor-2 module for 7516 Series, with SSD (spare)"
+    },
+    {
+        "Tag": "DCS-7516N",
+        "tag_description": "Arista 7516N chassis, 2 Supervisor slots, 8 line card slots, 6 Fabric Module slots"
+    },
+    {
+        "Tag": "DCS-7800-SUP",
+        "tag_description": "Supervisor module for 7800 series chassis"
+    },
+    {
+        "Tag": "DCS-7800-SUP1A",
+        "tag_description": "4 & 8-slot Supervisor & Shim Assy"
+    },
+    {
+        "Tag": "DCS-7800-SUP1S",
+        "tag_description": "Supervisor1S module for 7800 series chassis"
+    },
+    {
+        "Tag": "DCS-7804-CH",
+        "tag_description": "Arista 7804 chassis, 2 Supervisor slots, 4 line card slots, 6 Fabric Module slots, AC or DC option"
+    },
+    {
+        "Tag": "DCS-7808-CH",
+        "tag_description": "Arista 7808 chassis, 2 Supervisor slots, 8 line card slots, 6 Fabric Module slots, AC or DC option"
+    },
+    {
+        "Tag": "DCS-7812-CH",
+        "tag_description": "12-slot Chassis"
+    },
+    {
+        "Tag": "DCS-7816-CH",
+        "tag_description": "Arista 7816 chassis, 2 Supervisor slots, 16 line card slots, 12 Fabric Module slots, AC or DC option"
+    },
+    {
+        "Tag": "DCS-7816-SUP",
+        "tag_description": "Supervisor module for 7800 series 7816 chassis"
+    },
+    {
+        "Tag": "DCS-7816-SUP1S",
+        "tag_description": "Supervisor1S module for 7800 series 7816 chassis"
+    },
+    {
+        "Tag": "E-D800-D800",
+        "tag_description": ""
+    },
+    {
+        "Tag": "E-O800-O800",
+        "tag_description": ""
+    },
+    {
+        "Tag": "FAN-7000-F",
+        "tag_description": "Spare fan module for Arista 7150, 7124SX(FX), 7050, 7280 & 7048-A switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7000-R",
+        "tag_description": "Spare fan module for Arista 7150, 7124SX(FX), 7050, 7280 & 7048-A switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-7000H-F",
+        "tag_description": "Spare high speed fan module for Arista 7280R 1RU switches (front to rear airflow)"
+    },
+    {
+        "Tag": "FAN-7000H-R",
+        "tag_description": "Spare high speed fan module for Arista 7280R 1RU switches (rear to front airflow)"
+    },
+    {
+        "Tag": "FAN-7001C-F",
+        "tag_description": "Spare fan module for Arista 7000 Series 1RU Comm switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7001C-R",
+        "tag_description": "Spare fan module for Arista 7000 Series 1RU Comm switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-7001D-F",
+        "tag_description": "Spare fan module for Arista 7000 Series 1RU switches (front-to-rear airflow) (7280CR2A-30 and 7280CR2K-30)"
+    },
+    {
+        "Tag": "FAN-7001DH-F",
+        "tag_description": "Spare high speed fan module for Arista 7000 Series 1RU switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7002-F",
+        "tag_description": "Spare fan module for Arista 7050X/7250X 2RU and 7300 switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7002-R",
+        "tag_description": "Spare fan module for Arista 7250 / 7050 2RU and 7300 switches (rear to front airflow)"
+    },
+    {
+        "Tag": "FAN-7002H-F",
+        "tag_description": "Spare fan module for Arista 2U 7260CX-64, 7280CR and 7320X switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-7002H-R",
+        "tag_description": "Spare fan module for Arista 7260CX-64 switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-7010",
+        "tag_description": "Configurable fan module for Arista 7010 switches (reversible airflow)"
+    },
+    {
+        "Tag": "FAN-7010-R",
+        "tag_description": ""
+    },
+    {
+        "Tag": "FAN-7010X",
+        "tag_description": "Configurable fan module for Arista 7010 switches (reversible airflow)"
+    },
+    {
+        "Tag": "FAN-7011H-F",
+        "tag_description": "Spare fan module for Arista 7000 Series 1RU High Speed Fan (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7011H-R",
+        "tag_description": "Spare fan module for Arista 7000 Series 1RU High Speed Fan (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-7011M-F",
+        "tag_description": "Spare fan module for Arista 7000 Series 1RU Enhanced Fan Speed (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7011M-R",
+        "tag_description": "Spare fan module for Arista 7000 Series 1RU Enhanced Fan Speed (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-7012H-BLUE",
+        "tag_description": "Spare fan module for Arista 7000 Series 2RU High Speed Fan (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-7012H-RED",
+        "tag_description": "Spare fan module for Arista 7000 Series 2RU High Speed Fan (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7012M-BLUE",
+        "tag_description": "Spare fan module for Arista 7000 Series 2RU Enhanced Fan Speed (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-7012M-RED",
+        "tag_description": "Spare fan module for Arista 7000 Series 2RU Enhanced Fan Speed (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7012MP-RED",
+        "tag_description": "Spare fan module for Arista 7000 Series 2RU Enhanced Fan Speed OCP (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7130-2U-F",
+        "tag_description": "Spare fan module for Arista 7130 Series 2U (front-to-rear airflow)"
+    },
+    {
+        "Tag": "FAN-7130-2U-R",
+        "tag_description": "Spare fan module for Arista 7130 Series 2U (rear-to-front airflow)"
+    },
+    {
+        "Tag": "FAN-752M-RED",
+        "tag_description": "Spare fan module for Arista CCS-750 series switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "H-D400-4Q100",
+        "tag_description": "400GBASE-CR8 QSFP-DD to 4 x 100GBASE-CR4 QSFP Twinax Active Copper Cable"
+    },
+    {
+        "Tag": "H-O400-4Q100",
+        "tag_description": "400GBASE-CR8 OSFP to 4 x 100GBASE-CR4 QSFP Twinax Active Copper Cable"
+    },
+    {
+        "Tag": "O-105",
+        "tag_description": "WiFi 11ac Wave2 AP"
+    },
+    {
+        "Tag": "O-105E",
+        "tag_description": "WiFi 11ac Wave2 AP"
+    },
+    {
+        "Tag": "O-105ER",
+        "tag_description": "WiFi RJIL 11ac Wave2 AP"
+    },
+    {
+        "Tag": "O-235",
+        "tag_description": "WiFi 11ax AP"
+    },
+    {
+        "Tag": "O-235E",
+        "tag_description": "WiFi 11ax AP"
+    },
+    {
+        "Tag": "O-70",
+        "tag_description": "WiFi 11n AP"
+    },
+    {
+        "Tag": "O-90",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "O-90-N",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "O-90-N30",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "O-90-N45",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "O-90-R32",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "O-90-R64",
+        "tag_description": "WiFi RJIL 11ac Wave1 AP"
+    },
+    {
+        "Tag": "O-90E",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "O-98",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "O-98D",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "OSFP-200G-2LR4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OSFP-400-2FR4-LC",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OSFP-400G-2FR4",
+        "tag_description": "2 x 200GBASE-FR4 OSFP Transciever, up to 2km over two pairs of duplex SMF"
+    },
+    {
+        "Tag": "OSFP-400G-DR4",
+        "tag_description": "400GBASE-DR4 OSFP Transceiver, up to 500m over parallel SMF"
+    },
+    {
+        "Tag": "OSFP-400G-FR4",
+        "tag_description": "400GBASE-FR4 OSFP Transceiver, up to 2km over duplex SMF"
+    },
+    {
+        "Tag": "OSFP-400G-LR4",
+        "tag_description": "400GBASE-LR4 transceiver, up to 10km over duplex SMF"
+    },
+    {
+        "Tag": "OSFP-400G-LR8",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OSFP-400G-PLR4",
+        "tag_description": "400GBASE-PLR4 Parallel Long Reach transceiver, up to 10km over parallel SMF"
+    },
+    {
+        "Tag": "OSFP-400G-PLR4-S",
+        "tag_description": "4x 100GBASE-LR (or 400G-PLR4) OSFP Transceiver, with SN optical connectors, up to 10km over parallel SMF"
+    },
+    {
+        "Tag": "OSFP-400G-SR8",
+        "tag_description": "400GBASE-SR8 OSFP transceiver, up to 100m over parallel OM4 multi-mode fiber"
+    },
+    {
+        "Tag": "OSFP-400G-SRBD",
+        "tag_description": "2 x 200GBASE-FR4 OSFP Transciever, up to 2km over two pairs of duplex SMF"
+    },
+    {
+        "Tag": "OSFP-400G-XDR4",
+        "tag_description": "400GBASE-XDR4 OSFP Transceiver, up to 2km over parallel SMF"
+    },
+    {
+        "Tag": "OSFP-400G-XDR4-S",
+        "tag_description": "4x 100GBASE-FR (or 400G-XDR4) OSFP Transceiver, with SN optical connectors, up to 2km over parallel SMF"
+    },
+    {
+        "Tag": "OSFP-400G-ZR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OSFP-400G-ZRP",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OSFP-800G-2LR4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OSFP-AMP-ZR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PWR-1011-AC-BLUE",
+        "tag_description": "Arista PSU, 1RU, AC/DC, 1000W, REVERSE, 73.5MM"
+    },
+    {
+        "Tag": "PWR-1011-AC-RED",
+        "tag_description": "Arista PSU, 1RU, AC, 1000W, Forward, 73.5MM"
+    },
+    {
+        "Tag": "PWR-1011-DC-BLUE",
+        "tag_description": "Arista PSU, 1RU, DC/DC, 1000W, REVERSE, 73.5MM"
+    },
+    {
+        "Tag": "PWR-1011-DC-RED",
+        "tag_description": "Arista PSU, 1RU, DC/DC, 1000W, FORWARD, 73.5MM"
+    },
+    {
+        "Tag": "PWR-1021-AC-RED",
+        "tag_description": "PWR-00324 PSU, 1050W, POE, 54VDC (for Brooks Island)"
+    },
+    {
+        "Tag": "PWR-1100AC-F",
+        "tag_description": "Spare 1100 Watt AC power supply for Arista 7260QX Series Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-1100AC-R",
+        "tag_description": "Spare 1100 Watt AC power supply for Arista 7260QX Series Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-1511-AC-BLUE",
+        "tag_description": "PWR-00330-01 PSU, 1RU, AC/DC, 1500W, REVERSE, 73.5MM"
+    },
+    {
+        "Tag": "PWR-1511-AC-RED",
+        "tag_description": "Arista PSU, 1RU, AC/DC, 1500W, FORWARD, 73.5MM"
+    },
+    {
+        "Tag": "PWR-1511-DC-BLUE",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PWR-1511-DC-RED",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PWR-1600AC-F",
+        "tag_description": "Spare 1600W AC power supply for Arista 7000 Series 1U switches (front to rear airflow (7280CR2A-30 and 7280CR2K-30)"
+    },
+    {
+        "Tag": "PWR-1611-AC-RED",
+        "tag_description": "Spare Arista PSU, 1RU, AC/DC, 1600W, Forward, HS, 73.5MM"
+    },
+    {
+        "Tag": "PWR-1611-DC-RED",
+        "tag_description": "Spare 1600W DC power supply for Arista 7000 Series 1U switches (front to rear airflow)"
+    },
+    {
+        "Tag": "PWR-1900-DC-F",
+        "tag_description": "Spare 1900W DC Power Supply for 7260X and 7280R Series Series Switches (front to rear airflow)"
+    },
+    {
+        "Tag": "PWR-1900-DC-R",
+        "tag_description": "Spare 1900W DC Power Supply for 7260X and 7280R Series Series Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-1900AC-F",
+        "tag_description": "Spare 1900 Watt AC power supply for Arista 7260CX and 7280R Series Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-1900AC-R",
+        "tag_description": "Spare 1900 Watt AC power supply for Arista 7260CX and 7280R Series Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-2021-AC-RED",
+        "tag_description": "PSU, AC, 2000W, POE, GEN-2, RED"
+    },
+    {
+        "Tag": "PWR-2411-AC-BLUE",
+        "tag_description": "PWR-00403-01 PSU, 1RU, AC/DC, 2400W, REVERSE, 73.5MM"
+    },
+    {
+        "Tag": "PWR-2411-AC-RED",
+        "tag_description": "PWR-00329-01 PSU, 1RU, AC/DC, 2400W, FORWARD, 73.5MM"
+    },
+    {
+        "Tag": "PWR-2411-DC-BLUE",
+        "tag_description": "PWR-00403-01 PSU, 1RU, AC/DC, 2400W, REVERSE, 73.5MM"
+    },
+    {
+        "Tag": "PWR-2411-DC-RED",
+        "tag_description": "PWR-00329-01 PSU, 1RU, DC/DC, 2400W, FORWARD, 73.5MM"
+    },
+    {
+        "Tag": "PWR-2421-HV-RED",
+        "tag_description": "2400W, HVAC 73.5mm, dual-input fuse"
+    },
+    {
+        "Tag": "PWR-2700-DC-F",
+        "tag_description": "Spare 2700W DC Power Supply for 7300 series (front to rear airflow switch)"
+    },
+    {
+        "Tag": "PWR-2700-DC-R",
+        "tag_description": "Spare 2700W DC Power Supply for 7300 series (rear to front airflow switch)"
+    },
+    {
+        "Tag": "PWR-2900AC",
+        "tag_description": "2900W AC power supply for 7500 series (7508 and 7504 chassis)"
+    },
+    {
+        "Tag": "PWR-3001-AC-BLUE",
+        "tag_description": "Arista PSU, 1RU, AC/DC, 3000W, REVERSE, 80.6MM"
+    },
+    {
+        "Tag": "PWR-3001-AC-RED",
+        "tag_description": "Arista PSU, 1RU, AC/DC, 3000W, FORWARD, 80.6MM"
+    },
+    {
+        "Tag": "PWR-3001-DC-BLUE",
+        "tag_description": "Arista PSU, 1RU, DC/DC, 3000W, REVERSE, 80.6MM"
+    },
+    {
+        "Tag": "PWR-3001-DC-RED",
+        "tag_description": "Arista PSU, 1RU, DC/DC, 3000W, FORWARD, 80.6MM"
+    },
+    {
+        "Tag": "PWR-3351-AC-RED",
+        "tag_description": "Spare 3300W AC power supply for Arista CCS-750 series switches"
+    },
+    {
+        "Tag": "PWR-3K-AC-F",
+        "tag_description": "Spare 3kW AC Power Supply for 7300 series (front-to-rear airflow switch)"
+    },
+    {
+        "Tag": "PWR-3K-AC-R",
+        "tag_description": "Spare 3kW AC Power Supply for 7300 series (rear-to-front airflow switch)"
+    },
+    {
+        "Tag": "PWR-3K-DC-BLUE",
+        "tag_description": "Spare 3kW DC Power Supply for 7300 series (blue handle)"
+    },
+    {
+        "Tag": "PWR-3K-DC-F",
+        "tag_description": "Spare 3kW DC Power Supply for 7300 series (front to rear airflow switch)"
+    },
+    {
+        "Tag": "PWR-3K-DC-RED",
+        "tag_description": "Spare 3kW DC Power Supply for 7300 and 7500N series (red handle)"
+    },
+    {
+        "Tag": "PWR-3KT-AC-BLUE",
+        "tag_description": "Spare 3kW Titanium AC Power Supply for 7300 series (blue handle)"
+    },
+    {
+        "Tag": "PWR-3KT-AC-F",
+        "tag_description": "Spare 3kW Titanium AC Power Supply for 7300 series (front-to-rear airflow switch)"
+    },
+    {
+        "Tag": "PWR-3KT-AC-RED",
+        "tag_description": "Spare 3kW Titanium AC Power Supply for 7300 and 7500N series (red handle)"
+    },
+    {
+        "Tag": "PWR-400-DC-BLUE",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PWR-400-DC-RED",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PWR-400AC-BLUE",
+        "tag_description": "Spare 400W AC Power supply for Arista 1U Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-400AC-RED",
+        "tag_description": "Spare 400W AC Power supply for Arista 1U Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-460AC-F",
+        "tag_description": "Spare 460 Watt AC power supply for Arista 7150, 7124SX(FX), 7050 & 7048-A Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-460AC-R",
+        "tag_description": "Spare 460 Watt AC power supply for Arista 7150, 7124SX(FX), 7050 & 7048-A Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-460DC-F",
+        "tag_description": "Spare 460 Watt DC power supply for Arista 7150, 7124SX(FX), 7050 & 7048-A Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-460DC-R",
+        "tag_description": "Spare 460 Watt DC power supply for Arista 7150, 7124SX(FX), 7050 & 7048-A Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-500-DC-F",
+        "tag_description": "Spare 500 Watt DC power supply for Arista 7050X and 7280R 1RU Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-500-DC-R",
+        "tag_description": "Spare 500 Watt DC power supply for Arista 7050X and 7280R 1RU Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-500AC-F",
+        "tag_description": "Spare 500 Watt AC power supply for Arista 7050X and 7280R 1RU Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-500AC-R",
+        "tag_description": "Spare 500 Watt AC power supply for Arista 7050X and 7280R 1RU Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-501AC-F",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PWR-501AC-R",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PWR-511-AC-BLUE",
+        "tag_description": "Arista PSU, 1RU, AC, 500W, rear-to-front airflow, 73.5mm"
+    },
+    {
+        "Tag": "PWR-511-AC-RED",
+        "tag_description": "Arista PSU, 1RU, AC, 500W, front-to-rear airflow, 73.5mm"
+    },
+    {
+        "Tag": "PWR-511-DC-BLUE",
+        "tag_description": "Arista PSU, 1RU, DC, 500W, rear-to-front airflow, 73.5mm"
+    },
+    {
+        "Tag": "PWR-511-DC-RED",
+        "tag_description": "Arista PSU, 1RU, DC, 500W, front-to-rear airflow, 73.5mm"
+    },
+    {
+        "Tag": "PWR-621-AC-BLUE",
+        "tag_description": "PWR-00418 PSU, 650W, POE, 54VDC (for Seal Island)"
+    },
+    {
+        "Tag": "PWR-621-AC-RED",
+        "tag_description": "PWR-00324 PSU, 650W, POE, 54VDC (for Brooks Island)"
+    },
+    {
+        "Tag": "PWR-650AC",
+        "tag_description": "Arista PSU, 650W, AC"
+    },
+    {
+        "Tag": "PWR-721-DC-RED",
+        "tag_description": "700W DC PoE, 83mm"
+    },
+    {
+        "Tag": "PWR-745AC-F",
+        "tag_description": "Spare 750 Watt AC power supply for Arista 7060X and 7280QR Series Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-745AC-R",
+        "tag_description": "Spare 750 Watt AC power supply for Arista 7060X and 7280QR Series Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-747AC-F",
+        "tag_description": "Spare 750 Watt AC power supply for Arista 7280RX 1RU Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-747AC-R",
+        "tag_description": "Spare 750 Watt AC power supply for Arista 7280RX 1RU Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-750AC-F",
+        "tag_description": "Spare 750 Watt AC power supply for Arista 7050SX-128 2RU Switches (front-to-rear airflow)"
+    },
+    {
+        "Tag": "PWR-750AC-R",
+        "tag_description": "Spare 750 Watt AC power supply for Arista 7050SX-128 2RU Switches (rear-to-front airflow)"
+    },
+    {
+        "Tag": "PWR-D1-3041-AC-BLUE",
+        "tag_description": "PWR-00305 PSU, ATS, 1RU, AC, 3KW, BLUE (for Denali)"
+    },
+    {
+        "Tag": "QDD-200G-2LR4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "QDD-400G-DR4",
+        "tag_description": "400GBASE-DR4 QSFP-DD Transceiver, up to 500m over parallel SMF"
+    },
+    {
+        "Tag": "QDD-400G-FR4",
+        "tag_description": "400GBASE-FR4 QSFP-DD Transceiver, up to 2km over duplex SMF"
+    },
+    {
+        "Tag": "QDD-400G-LR4",
+        "tag_description": "400GBASE-LR4 transceiver, up to 10km over duplex SMF"
+    },
+    {
+        "Tag": "QDD-400G-LR8",
+        "tag_description": ""
+    },
+    {
+        "Tag": "QDD-400G-PLR4",
+        "tag_description": "400GBASE-PLR4 Parallel Long Reach transceiver, up to 10km over parallel SMF"
+    },
+    {
+        "Tag": "QDD-400G-PLR4-S",
+        "tag_description": "4x 100GBASE-LR (or 400G-PLR4) QSFP-DD Transceiver, with SN optical connectors, up to 10km over parallel SMF"
+    },
+    {
+        "Tag": "QDD-400G-SR8",
+        "tag_description": "400GBASE-SR8 QSFP-DD Transceiver, up to 100m over parallel multi-mode fiber"
+    },
+    {
+        "Tag": "QDD-400G-SR8-C",
+        "tag_description": ""
+    },
+    {
+        "Tag": "QDD-400G-XDR4",
+        "tag_description": "400GBASE-XDR4 QSFP-DD Transceiver, up to 2km over parallel SMF"
+    },
+    {
+        "Tag": "QDD-400G-XDR4-S",
+        "tag_description": "4x 100GBASE-FR (or400G-XDR4) QSFP-DD Transceiver, with SN optical connectors, up to 2km over parallel SMF"
+    },
+    {
+        "Tag": "QDD-400G-ZR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "QDD-400G-ZRP",
+        "tag_description": ""
+    },
+    {
+        "Tag": "QDD-800G-2PLR4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "QDD-800G-PLR8",
+        "tag_description": ""
+    },
+    {
+        "Tag": "QSFP-100G-CWDM4",
+        "tag_description": "100GBASE-CWDM4 QSFP100 Optics Module, up to 2km over duplex SMF"
+    },
+    {
+        "Tag": "QSFP-100G-DR",
+        "tag_description": "100GBASE-DR 100G lambda QSFP optical transceiver, up to 500m over duplex SMF. Interop with 100G-FR/LR over 500m."
+    },
+    {
+        "Tag": "QSFP-100G-FR",
+        "tag_description": "100GBASE-FR 100G lambda QSFP optical transceiver, up to 2km over duplex SMF. Interop with 100G-DR/LR over 500m/2km"
+    },
+    {
+        "Tag": "QSFP-100G-LR",
+        "tag_description": "100GBASE-LR 100G lambda QSFP optical transceiver, up to 10km over duplex SMF. Interop with 100G-DR/FR over 500m/2km."
+    },
+    {
+        "Tag": "QSFP-100G-LR4",
+        "tag_description": "100GBASE-LR4 QSFP100 Optics Module, up to 10km over duplex SMF"
+    },
+    {
+        "Tag": "QSFP-100G-LRL4",
+        "tag_description": "100GBASE-LRL4 QSFP100 Optics Module, up to 2km over duplex SMF"
+    },
+    {
+        "Tag": "QSFP-100G-SR4",
+        "tag_description": "100GBASE-SR4 QSFP100 transceiver, up to 70m over parallel OM3 or 100m over OM4 multi-mode fiber"
+    },
+    {
+        "Tag": "QSFP-100G-XCWDM4",
+        "tag_description": "100GBASE-XCWDM4 QSFP100 Optics Module, up to 10km over duplex SMF"
+    },
+    {
+        "Tag": "QSFP-200G-AR4",
+        "tag_description": "200GBASE-AR4 QSPF Transceiver"
+    },
+    {
+        "Tag": "QSFP-200G-FR4",
+        "tag_description": "200GBASE-FR4 QSFP Transceiver, up to 2km over duplex single-mode fiber, 200G/100G dual rate"
+    },
+    {
+        "Tag": "QSFP-40G-ER4",
+        "tag_description": "40GBASE-ER4 QSFP+ Optic, up to 40km over SMF"
+    },
+    {
+        "Tag": "QSFP-40G-LR4",
+        "tag_description": "40GBASE-LR4 QSFP+ Optic, up to 10km over SMF"
+    },
+    {
+        "Tag": "QSFP-40G-LRL4",
+        "tag_description": "40G QSFP+ Optic, up to 1km over duplex SMF"
+    },
+    {
+        "Tag": "QSFP-40G-PLR4",
+        "tag_description": "40G QSFP+ Optic, up to 10km over parallel SMF (4x10G LR up to 10km) MTP-12"
+    },
+    {
+        "Tag": "QSFP-40G-PLRL4",
+        "tag_description": "40G QSFP+ Optic, up to 1km over parallel SMF (4x10G LR up to 1km) MTP-12"
+    },
+    {
+        "Tag": "QSFP-40G-SR4",
+        "tag_description": "40GBASE-SR4 QSFP+ Optic, up to 100m over OM3 MMF or 150m over OM4 MMF"
+    },
+    {
+        "Tag": "QSFP-40G-SRBD",
+        "tag_description": "40GBASE-BIDI Bidirectional QSFP+ Optic, up to 100m over duplex OM3 or 150m over duplex OM4 multi-mode fiber"
+    },
+    {
+        "Tag": "QSFP-40G-UNIV",
+        "tag_description": "40G Universal QSFP+ Optic, up to 150m over duplex OM3 and OM4 MMF or 500m over duplex SMF"
+    },
+    {
+        "Tag": "QSFP-40G-XSR4",
+        "tag_description": "40GBASE-XSR4 QSFP+ Optic, up to 300m over OM3 MMF or 400m over OM4 MMF"
+    },
+    {
+        "Tag": "QSFP-AMP-ZR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "SFP-10G-DW-30.33",
+        "tag_description": "10GBASE-DWDM 1530.33nm (ITU Channel 59) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-31.12",
+        "tag_description": "10GBASE-DWDM 1531.12nm (ITU Channel 58) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-31.90",
+        "tag_description": "10GBASE-DWDM 1531.90nm (ITU Channel 57) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-32.68",
+        "tag_description": "10GBASE-DWDM 1532.68nm (ITU Channel 56) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-34.25",
+        "tag_description": "10GBASE-DWDM 1534.25nm (ITU Channel 54) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-34.47",
+        "tag_description": "10GBASE-DWDM 1533.47nm (ITU Channel 55) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-35.04",
+        "tag_description": "10GBASE-DWDM 1535.04nm (ITU Channel 53) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-35.82",
+        "tag_description": "10GBASE-DWDM 1535.82nm (ITU Channel 52) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-36.61",
+        "tag_description": "10GBASE-DWDM 1536.61nm (ITU Channel 51) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-37.40",
+        "tag_description": "10GBASE-DWDM 1537.40nm (ITU Channel 50) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-38.19",
+        "tag_description": "10GBASE-DWDM 1538.19nm (ITU Channel 49) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-38.98",
+        "tag_description": "10GBASE-DWDM 1538.98nm (ITU Channel 48) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-39.77",
+        "tag_description": "10GBASE-DWDM 1539.77nm (ITU Channel 47) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-40.56",
+        "tag_description": "10GBASE-DWDM 1540.56nm (ITU Channel 46) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-41.35",
+        "tag_description": "10GBASE-DWDM 1541.35nm (ITU Channel 45) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-42.14",
+        "tag_description": "10GBASE-DWDM 1542.14nm (ITU Channel 44) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-42.94",
+        "tag_description": "10GBASE-DWDM 1542.94nm (ITU Channel 43) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-43.73",
+        "tag_description": "10GBASE-DWDM 1543.73nm (ITU Channel 42) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-44.53",
+        "tag_description": "10GBASE-DWDM 1544.53nm (ITU Channel 41) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-45.32",
+        "tag_description": "10GBASE-DWDM 1545.32nm (ITU Channel 40) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-46.12",
+        "tag_description": "10GBASE-DWDM 1546.12nm (ITU Channel 39) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-46.92",
+        "tag_description": "10GBASE-DWDM 1546.92nm (ITU Channel 38) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-47.72",
+        "tag_description": "10GBASE-DWDM 1547.72nm (ITU Channel 37) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-48.51",
+        "tag_description": "10GBASE-DWDM 1548.51nm (ITU Channel 36) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-49.32",
+        "tag_description": "10GBASE-DWDM 1549.32nm (ITU Channel 35) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-50.12",
+        "tag_description": "10GBASE-DWDM 1550.12nm (ITU Channel 34) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-50.92",
+        "tag_description": "10GBASE-DWDM 1550.92nm (ITU Channel 33) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-51.72",
+        "tag_description": "10GBASE-DWDM 1551.72nm (ITU Channel 32) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-52.52",
+        "tag_description": "10GBASE-DWDM 1552.52nm (ITU Channel 31) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-53.33",
+        "tag_description": "10GBASE-DWDM 1553.33nm (ITU Channel 30) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-54.13",
+        "tag_description": "10GBASE-DWDM 1554.13nm (ITU Channel 29) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-54.94",
+        "tag_description": "10GBASE-DWDM 1554.94nm (ITU Channel 28) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-55.75",
+        "tag_description": "10GBASE-DWDM 1555.75nm (ITU Channel 27) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-56.55",
+        "tag_description": "10GBASE-DWDM 1556.55nm (ITU Channel 26) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-57.36",
+        "tag_description": "10GBASE-DWDM 1557.36nm (ITU Channel 25) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-58.17",
+        "tag_description": "10GBASE-DWDM 1558.17nm (ITU Channel 24) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-58.98",
+        "tag_description": "10GBASE-DWDM 1558.98nm (ITU Channel 23) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-59.79",
+        "tag_description": "10GBASE-DWDM 1559.79nm (ITU Channel 22) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DW-60.61",
+        "tag_description": "10GBASE-DWDM 1560.61nm (ITU Channel 21) SFP+ Optics Module (100-GHz ITU grid) (40km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-29.55",
+        "tag_description": "10GBASE-DWDM 1529.55nm (ITU Channel 60) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-30.33",
+        "tag_description": "10GBASE-DWDM 1530.33nm (ITU Channel 59) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-31.12",
+        "tag_description": "10GBASE-DWDM 1531.12nm (ITU Channel 58) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-31.90",
+        "tag_description": "10GBASE-DWDM 1531.90nm (ITU Channel 57) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-32.68",
+        "tag_description": "10GBASE-DWDM 1532.68nm (ITU Channel 56) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-33.47",
+        "tag_description": "10GBASE-DWDM 1533.47nm (ITU Channel 55) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-34.25",
+        "tag_description": "10GBASE-DWDM 1534.25nm (ITU Channel 54) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-35.04",
+        "tag_description": "10GBASE-DWDM 1535.04nm (ITU Channel 53) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-35.82",
+        "tag_description": "10GBASE-DWDM 1535.82nm (ITU Channel 52) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-37.40",
+        "tag_description": "10GBASE-DWDM 1537.40nm (ITU Channel 50) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-38.19",
+        "tag_description": "10GBASE-DWDM 1538.19nm (ITU Channel 49) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-38.98",
+        "tag_description": "10GBASE-DWDM 1538.98nm (ITU Channel 48) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-39.77",
+        "tag_description": "10GBASE-DWDM 1539.77nm (ITU Channel 47) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-40.56",
+        "tag_description": "10GBASE-DWDM 1540.56nm (ITU Channel 46) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-41.35",
+        "tag_description": "10GBASE-DWDM 1541.35nm (ITU Channel 45) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-42.14",
+        "tag_description": "10GBASE-DWDM 1542.14nm (ITU Channel 44) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-42.94",
+        "tag_description": "10GBASE-DWDM 1542.94nm (ITU Channel 43) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-43.73",
+        "tag_description": "10GBASE-DWDM 1543.73nm (ITU Channel 42) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-44.53",
+        "tag_description": "10GBASE-DWDM 1544.53nm (ITU Channel 41) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-45.32",
+        "tag_description": "10GBASE-DWDM 1545.32nm (ITU Channel 40) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-46.12",
+        "tag_description": "10GBASE-DWDM 1546.12nm (ITU Channel 39) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-46.92",
+        "tag_description": "10GBASE-DWDM 1546.92nm (ITU Channel 38) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-47.72",
+        "tag_description": "10GBASE-DWDM 1547.72nm (ITU Channel 37) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-48.51",
+        "tag_description": "10GBASE-DWDM 1548.51nm (ITU Channel 36) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-49.32",
+        "tag_description": "10GBASE-DWDM 1549.32nm (ITU Channel 35) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-50.12",
+        "tag_description": "10GBASE-DWDM 1550.12nm (ITU Channel 34) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-50.92",
+        "tag_description": "10GBASE-DWDM 1550.92nm (ITU Channel 33) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-51.72",
+        "tag_description": "10GBASE-DWDM 1551.72nm (ITU Channel 32) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-52.52",
+        "tag_description": "10GBASE-DWDM 1552.52nm (ITU Channel 31) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-53.33",
+        "tag_description": "10GBASE-DWDM 1553.33nm (ITU Channel 30) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-54.13",
+        "tag_description": "10GBASE-DWDM 1554.13nm (ITU Channel 29) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-54.94",
+        "tag_description": "10GBASE-DWDM 1554.94nm (ITU Channel 28) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-55.75",
+        "tag_description": "10GBASE-DWDM 1555.75nm (ITU Channel 27) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-56.55",
+        "tag_description": "10GBASE-DWDM 1556.55nm (ITU Channel 26) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-57.36",
+        "tag_description": "10GBASE-DWDM 1557.36nm (ITU Channel 25) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-58.17",
+        "tag_description": "10GBASE-DWDM 1558.17nm (ITU Channel 24) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-58.98",
+        "tag_description": "10GBASE-DWDM 1558.98nm (ITU Channel 23) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-59.79",
+        "tag_description": "10GBASE-DWDM 1559.79nm (ITU Channel 22) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-60.61",
+        "tag_description": "10GBASE-DWDM 1560.61nm (ITU Channel 21) SFP+ Optics Module (100-GHz ITU grid) (80km Reach)"
+    },
+    {
+        "Tag": "SFP-10G-DZ-T",
+        "tag_description": "10GBASE-DWDM Tunable SFP+ Optics Module, Full C-Band 50 GHz ITU Grid, up to 80km over duplex SMF"
+    },
+    {
+        "Tag": "SFP-10G-ER",
+        "tag_description": "10GBASE-ER SFP+ Optics Module, up to 40km over duplex SMF"
+    },
+    {
+        "Tag": "SFP-10G-LR",
+        "tag_description": "10GBASE-LR SFP+ Optics Module, up to 10km over duplex SMF"
+    },
+    {
+        "Tag": "SFP-10G-LRL",
+        "tag_description": "10GBASE-LRL SFP+ Optics Module, up to 1km over duplex SMF"
+    },
+    {
+        "Tag": "SFP-10G-MRA-T",
+        "tag_description": ""
+    },
+    {
+        "Tag": "SFP-10G-SR",
+        "tag_description": "10GBASE-SR SFP+ Optics Module, up to 300m over OM3 MMF or 400m over OM4 MMF"
+    },
+    {
+        "Tag": "SFP-10G-SRL",
+        "tag_description": "10GBASE-SRL SFP+ Optics Module, up to 100m over OM3 MMF or 150m over OM4 MMF"
+    },
+    {
+        "Tag": "SFP-10G-T",
+        "tag_description": "10GBASE-T SFP Transceiver, up to 30m over Cat6"
+    },
+    {
+        "Tag": "SFP-10G-ZR",
+        "tag_description": "10GBASE-ZR SFP+ Optics Module, up to 80km over duplex SMF"
+    },
+    {
+        "Tag": "SFP-1G-LX",
+        "tag_description": "1000BASE-LX SFP Optics Module"
+    },
+    {
+        "Tag": "SFP-1G-SX",
+        "tag_description": "1000BASE-SX SFP Optics Module"
+    },
+    {
+        "Tag": "SFP-1G-T",
+        "tag_description": "100/1000BASE-T SFP Copper Module"
+    },
+    {
+        "Tag": "SFP-25G-MR-LR",
+        "tag_description": "10/25GBASE-LR SFP transceiver, up to 10km over duplex SMF"
+    },
+    {
+        "Tag": "SFP-25G-MR-SR",
+        "tag_description": "10/25GBASE-MR-SR Dual rate SFP Transceiver"
+    },
+    {
+        "Tag": "SFP-25G-MR-XSR",
+        "tag_description": "10/25GBASE-SR SFP transceiver up to 200/300m over duplex OM3/OM4 MMF"
+    },
+    {
+        "Tag": "SFP-50G-MR-LR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "SFP-50G-MR-SR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "vEOS",
+        "tag_description": "CloudEOS/vEOS Router"
+    },
+    {
+        "Tag": "W-118",
+        "tag_description": "WiFi 11ac Wave2 AP"
+    },
+    {
+        "Tag": "W-68",
+        "tag_description": "WiFi 11ac Wave1 AP"
+    },
+    {
+        "Tag": "7010",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7010T",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7020R",
+        "tag_description": "Arista 7020R Series"
+    },
+    {
+        "Tag": "7020SR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7020TR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7048T",
+        "tag_description": "7048T Series Data Center Class Gigabit Ethernet Switch"
+    },
+    {
+        "Tag": "7050",
+        "tag_description": "7050 Series 10GbE and 40GbE 1RU wire speed multilayer switches"
+    },
+    {
+        "Tag": "7050CX3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050Q",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050QX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050QX2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050S",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050SX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050SX2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050SX3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050T",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050TX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050TX2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050TX3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050X",
+        "tag_description": "7050X Series compact 1RU and 2RU 10GbE and 40GbE wire speed, low latency and scalable multilayer switches"
+    },
+    {
+        "Tag": "7050X2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050X3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7050X3M",
+        "tag_description": "7050X3 MACsec system"
+    },
+    {
+        "Tag": "7120T",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7124FX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7124S",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7124SX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7140T",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7148S",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7148SX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7160",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7250QX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7250SX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7250X",
+        "tag_description": "7250X Series 10/40GbE switches with wire speed layer 2/3/4 performance combined with low latency and advanced features"
+    },
+    {
+        "Tag": "7260X",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7260X3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280CR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280CR2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280E",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280QR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280QRA",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280R",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280R2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280R3",
+        "tag_description": "7280R3 series fixed systems"
+    },
+    {
+        "Tag": "7280RA",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280SE",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280SR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280SR2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280SR2A",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280SR2K",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280SRA",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280TR",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7280TRA",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7300",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7300X",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7300X3",
+        "tag_description": "7300X3 series"
+    },
+    {
+        "Tag": "7304X",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7308X",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7316",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7316X",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7320X",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7358",
+        "tag_description": "Arista 7358X4 Series"
+    },
+    {
+        "Tag": "7368X4",
+        "tag_description": "Arista 7368X4 series"
+    },
+    {
+        "Tag": "7388X5",
+        "tag_description": "Arista 7388X5 series"
+    },
+    {
+        "Tag": "7500",
+        "tag_description": "both 7500E and 7500R"
+    },
+    {
+        "Tag": "7500E",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7500R",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7500R2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7500RM",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7504",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7504E",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7504N",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7504R",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7508",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7508E",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7508N",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7508R",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7512",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7512N",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7512R",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7516",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7516N",
+        "tag_description": ""
+    },
+    {
+        "Tag": "7516R",
+        "tag_description": ""
+    },
+    {
+        "Tag": "AaaAuthenloginLdap",
+        "tag_description": "aaa authentication login default group ldap local is configured"
+    },
+    {
+        "Tag": "AaaAuthorExecLdap",
+        "tag_description": "aaa authorization exec default group ldap local is configured"
+    },
+    {
+        "Tag": "AAAGroupServerRadius",
+        "tag_description": "aaa group server radius configured"
+    },
+    {
+        "Tag": "aboot4Version",
+        "tag_description": ""
+    },
+    {
+        "Tag": "aboot6Version",
+        "tag_description": ""
+    },
+    {
+        "Tag": "abootFN44",
+        "tag_description": "Aboot BIOS revisions affected by Field Notice 44 (Aboot6 lower than 6.1.7 or 6.0.9 and Aboot4 lower than 4.1.1 or 4.0.7)"
+    },
+    {
+        "Tag": "ABR",
+        "tag_description": "This is an Area Border Router"
+    },
+    {
+        "Tag": "AccessPort",
+        "tag_description": "Switchport mode access configured."
+    },
+    {
+        "Tag": "ACLapplied",
+        "tag_description": "An ACL is applied in the system."
+    },
+    {
+        "Tag": "AclConfigured",
+        "tag_description": "Acl is configured on the system"
+    },
+    {
+        "Tag": "ACLLog",
+        "tag_description": "ACL loging feature is configured."
+    },
+    {
+        "Tag": "add",
+        "tag_description": ""
+    },
+    {
+        "Tag": "addEVPN",
+        "tag_description": "Address-family evpn is configured"
+    },
+    {
+        "Tag": "addressOnlyNAT",
+        "tag_description": "Check if address-only NAT has been configured"
+    },
+    {
+        "Tag": "addrFamilyIpv4Mcast",
+        "tag_description": "address family ipv4 multicast has been enabled"
+    },
+    {
+        "Tag": "addrFamilyMulticastIpv6",
+        "tag_description": "Check if IPv6 multicast address-family is configured"
+    },
+    {
+        "Tag": "AddrFamilyRtMemb",
+        "tag_description": "Address-family rt-membership is configured"
+    },
+    {
+        "Tag": "addrFamilyVpnIpv4",
+        "tag_description": "Check if the vpn-ipv4 address family has been enabled"
+    },
+    {
+        "Tag": "addrFamilyVpnIpv6",
+        "tag_description": "Check if the vpn-ipv6 address family has been enabled"
+    },
+    {
+        "Tag": "AddrLockingConfigured",
+        "tag_description": "address locking is configured"
+    },
+    {
+        "Tag": "AddrLockingDhcpV4Configured",
+        "tag_description": "dhcp server ipv4 is configured in address locking"
+    },
+    {
+        "Tag": "algomatch",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Alta",
+        "tag_description": "Alta family"
+    },
+    {
+        "Tag": "AnycastRP",
+        "tag_description": "Anycast RP is configured (IPv4 PIM)."
+    },
+    {
+        "Tag": "AnyQosConfigured",
+        "tag_description": "check if any configuration is present"
+    },
+    {
+        "Tag": "AnyStormControlEnabled",
+        "tag_description": "Check for the presence of any storm control configuration on at least one port"
+    },
+    {
+        "Tag": "AOC-D-D-400G",
+        "tag_description": "400G QSFP-DD to QSFP-DD Active Optical Cable 1m to 30m"
+    },
+    {
+        "Tag": "AOC-O-O-400G",
+        "tag_description": "400GbE OSFP to OSFP Active Optical Cable 1m to 30m"
+    },
+    {
+        "Tag": "appProfile",
+        "tag_description": "checks if 'application profile' config is present"
+    },
+    {
+        "Tag": "Arad",
+        "tag_description": ""
+    },
+    {
+        "Tag": "AradPlus",
+        "tag_description": ""
+    },
+    {
+        "Tag": "ArBgp",
+        "tag_description": "Service routing protocols model multi-agent is configured."
+    },
+    {
+        "Tag": "ARPRelayConfigured",
+        "tag_description": "ARP Relay feature is configured (may or may not be enabled)."
+    },
+    {
+        "Tag": "ARPRelayEnabled",
+        "tag_description": "ARP Relay feature is enabled."
+    },
+    {
+        "Tag": "asPathACL",
+        "tag_description": "Confirm whether IP as-path ACLs are configured"
+    },
+    {
+        "Tag": "AutoCostRefBandwidthOSPF",
+        "tag_description": "auto-cost reference-bandwidth configured under OSPF"
+    },
+    {
+        "Tag": "AWE-5000",
+        "tag_description": "AWE-5000 series"
+    },
+    {
+        "Tag": "B2XP",
+        "tag_description": "B2 version of XP chip."
+    },
+    {
+        "Tag": "Bali",
+        "tag_description": "Bali family"
+    },
+    {
+        "Tag": "Barefoot",
+        "tag_description": "Barefoot family"
+    },
+    {
+        "Tag": "BCM84848",
+        "tag_description": ""
+    },
+    {
+        "Tag": "BelvedereCpu",
+        "tag_description": ""
+    },
+    {
+        "Tag": "BfdAgentshutdown",
+        "tag_description": "The Bfd Agent is shutdown"
+    },
+    {
+        "Tag": "BfdEchoenabled",
+        "tag_description": "BFD echo function is enabled on an interface"
+    },
+    {
+        "Tag": "BFDenabled",
+        "tag_description": "BFD is enabled for any routing protocol"
+    },
+    {
+        "Tag": "BfdHwAccelerated",
+        "tag_description": "Check if hardware accelerated bfd is enabled"
+    },
+    {
+        "Tag": "BFDinterval",
+        "tag_description": "BFD interval configured."
+    },
+    {
+        "Tag": "bfdPerLink",
+        "tag_description": "Check for bfd per-link usage"
+    },
+    {
+        "Tag": "bfdPortChannelEnable",
+        "tag_description": ""
+    },
+    {
+        "Tag": "bfdRFC7130Configured",
+        "tag_description": "Check to see if 'bfd per-link rfc-7130' is configured"
+    },
+    {
+        "Tag": "BfdShutdown",
+        "tag_description": ""
+    },
+    {
+        "Tag": "BGP128MaxPaths",
+        "tag_description": "Looks for maximum-paths 128 to be configured in BGP section"
+    },
+    {
+        "Tag": "BGPAdditionalPath",
+        "tag_description": "Check if command bgp additional-paths send any is configured"
+    },
+    {
+        "Tag": "BGPAdditionalPathInstall",
+        "tag_description": "Check if command bgp additional-paths install is configured"
+    },
+    {
+        "Tag": "BGPAddressFamily",
+        "tag_description": "BGP peers are configured as an Address Family"
+    },
+    {
+        "Tag": "bgpAdvertiseInactive",
+        "tag_description": "bgp advertise inactive is enabled"
+    },
+    {
+        "Tag": "bgpAggAddressPresent",
+        "tag_description": "Checks BGP running config for use of aggregate-address statements"
+    },
+    {
+        "Tag": "bgpAutoLocalAddr",
+        "tag_description": "Check if 'neighbor auto-local-addr' is configured under BGP"
+    },
+    {
+        "Tag": "BGPBestPath",
+        "tag_description": "BGP BestPath is configured as tie-break or ecmp-fast."
+    },
+    {
+        "Tag": "BGPbestpathTieBreak",
+        "tag_description": "BGP BestPath is configured as tie-break."
+    },
+    {
+        "Tag": "BGPDefOriginate",
+        "tag_description": "Default-originate is configured under router-bgp for a neighbor."
+    },
+    {
+        "Tag": "BGPDynamicPeer",
+        "tag_description": "BGP Dynamic peer configured using listen range command."
+    },
+    {
+        "Tag": "bgpECMPEnabled",
+        "tag_description": "Looks for maximum-paths to be configured in BGP section"
+    },
+    {
+        "Tag": "bgpEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "BGPFlowSpecEnabled",
+        "tag_description": "Check if flow-spec AF is configured under 'router bgp'"
+    },
+    {
+        "Tag": "BGPGracefulRestart",
+        "tag_description": "BGP is configured with graceful-restart"
+    },
+    {
+        "Tag": "BGPGraceHelper",
+        "tag_description": "BGP graceful restart helper is enabled using commands neighbor graceful-restart helper or graceful-restart helper"
+    },
+    {
+        "Tag": "bgpInboundRouteMap",
+        "tag_description": "Finds BGP sessions with inbound route-maps"
+    },
+    {
+        "Tag": "BGPinVRF",
+        "tag_description": "BGP is configured in VRF."
+    },
+    {
+        "Tag": "bgpIpv6Enabled",
+        "tag_description": "IPv6 BGP is enabled."
+    },
+    {
+        "Tag": "BgpMatchCommunity",
+        "tag_description": "Check if a bgp match community has been configured"
+    },
+    {
+        "Tag": "BGPMed",
+        "tag_description": "BGP always compare med is configured."
+    },
+    {
+        "Tag": "BGPNbrOutDelay",
+        "tag_description": "BGP Neighbor Out-delay is configured."
+    },
+    {
+        "Tag": "BgpNeighInRouteMap",
+        "tag_description": ""
+    },
+    {
+        "Tag": "bgpNoNbrUpdateSrc",
+        "tag_description": "When a user configures a peer-group, the default no neighbor <addr> update-source shows up in the configuration. This is related to at least one bug, and is probably a misconfig where the neighbor IP is used instead of peer-group name. Checks for IPv4"
+    },
+    {
+        "Tag": "bgpOutboundRouteMap",
+        "tag_description": "Finds BGP sessions with outbound route-maps"
+    },
+    {
+        "Tag": "BGPPeerGroups",
+        "tag_description": "Check to see if any BGP peer groups are configured"
+    },
+    {
+        "Tag": "BGPRedistOSPFRoutemap",
+        "tag_description": "Check to see if we are redistributing routes from BGP into OSPFv2"
+    },
+    {
+        "Tag": "bgpRouteInstallMap",
+        "tag_description": "bgp route install-map is enabled"
+    },
+    {
+        "Tag": "bgpRREnabled",
+        "tag_description": "iBGP is configured as route reflector for at least one client"
+    },
+    {
+        "Tag": "BGPSendCommunity",
+        "tag_description": "send-community enabled"
+    },
+    {
+        "Tag": "BGPSendlnkCommunity",
+        "tag_description": "send-community link-bandwidth enabled"
+    },
+    {
+        "Tag": "BGPSendStdCommunity",
+        "tag_description": "only send-community standard enabled"
+    },
+    {
+        "Tag": "BgpSetCommunity",
+        "tag_description": "Check if a bgp set community has been configured"
+    },
+    {
+        "Tag": "bgpSoftReconfigIn",
+        "tag_description": "Finds soft-reconfig inbound statements for BGP peers"
+    },
+    {
+        "Tag": "BgpUcmp",
+        "tag_description": "BGP is configured with UCMP"
+    },
+    {
+        "Tag": "BGPUpdateWaitInstall",
+        "tag_description": "BGP Update Wait-install is configured."
+    },
+    {
+        "Tag": "bgpvpnexport",
+        "tag_description": "Check if bgpvpnexport is enabled"
+    },
+    {
+        "Tag": "BidirectionalPim",
+        "tag_description": ""
+    },
+    {
+        "Tag": "BidirectionalPimRP",
+        "tag_description": "ip pim rp-address <Rendezvous point IP address> is configured under router pim bidirectional"
+    },
+    {
+        "Tag": "Blackbird",
+        "tag_description": "Blackbird CPU Card"
+    },
+    {
+        "Tag": "Blackbird-10",
+        "tag_description": "Blackbird-10 CPU Card"
+    },
+    {
+        "Tag": "BMPenabled",
+        "tag_description": "BGP Monitoring Protocol is enabled."
+    },
+    {
+        "Tag": "bodega",
+        "tag_description": ""
+    },
+    {
+        "Tag": "CAB-D-2Q-200G",
+        "tag_description": "QSFP-DD to 2 x 100G QSFP Twinax Copper Cable 1m to 2.5m"
+    },
+    {
+        "Tag": "CAB-D-2Q-400G",
+        "tag_description": "QSFP-DD to 2 x 200G QSFP Twinax Copper Cable 1m to 2.5m"
+    },
+    {
+        "Tag": "CAB-D-4Q-200G",
+        "tag_description": "QSFP-DD to 4 x 50G QSFP Twinax Copper Cable 1m to 2.5m"
+    },
+    {
+        "Tag": "CAB-D-4Q-400G",
+        "tag_description": "QSFP-DD to 4 x 100G-CR2, PAM-4, QSFP Twinax Copper Cable 1m to 2.5m"
+    },
+    {
+        "Tag": "CAB-D-8S-200G",
+        "tag_description": "QSFP-DD to 8 x 25G SFP Twinax Copper Cable 1m to 2.5m"
+    },
+    {
+        "Tag": "CAB-D-D-400G",
+        "tag_description": "400G-CR8 QSFP-DD TO QSFP-DD Twinax Copper Cable 1m to 2.5m"
+    },
+    {
+        "Tag": "CAB-O-2Q-200G",
+        "tag_description": "OSFP to 2 x 100G QSFP Twinax Copper Cable 1m to 3m"
+    },
+    {
+        "Tag": "CAB-O-2Q-400G",
+        "tag_description": "OSFP to 2 x 200G QSFP Twinax Copper Cable 1m to 3m"
+    },
+    {
+        "Tag": "CAB-O-4Q-200G",
+        "tag_description": "OSFP to 4 x 50G QSFP Twinax Copper Cable 1m to 3m"
+    },
+    {
+        "Tag": "CAB-O-4Q-400G",
+        "tag_description": "OSFP to 4 x 100G-CR2, PAM-4, QSFP Twinax Copper Cable 1m to 3m"
+    },
+    {
+        "Tag": "CAB-O-8S-200G",
+        "tag_description": "OSFP to 8 x 25G SFP Twinax Copper Cable 1m to 3m"
+    },
+    {
+        "Tag": "CAB-O-O-400G",
+        "tag_description": "400G OSFP TO OSFP Twinax Copper Cable 1m to 3m"
+    },
+    {
+        "Tag": "CaravanCpu-SnowRidge",
+        "tag_description": "CaravanCpu-SnowRidge CPU card"
+    },
+    {
+        "Tag": "CaravanSku",
+        "tag_description": "Caravan Family SKU"
+    },
+    {
+        "Tag": "CCS-720",
+        "tag_description": "CCS-720 series"
+    },
+    {
+        "Tag": "CCS-720DF",
+        "tag_description": "CCS-720DF series"
+    },
+    {
+        "Tag": "CCS-720DP",
+        "tag_description": "CCS-720DP series"
+    },
+    {
+        "Tag": "CCS-720DT",
+        "tag_description": "CCS-720DT series"
+    },
+    {
+        "Tag": "CCS-720XP",
+        "tag_description": "Arista 720XP series"
+    },
+    {
+        "Tag": "CCS-722XPM",
+        "tag_description": "CCS-722XPM series"
+    },
+    {
+        "Tag": "CCS-750",
+        "tag_description": "Arista 750 Series"
+    },
+    {
+        "Tag": "ClassMapConfigured",
+        "tag_description": "Check if class-map is configured"
+    },
+    {
+        "Tag": "configBfdInterval",
+        "tag_description": "Check to see if non default 'bfd interval' is configured"
+    },
+    {
+        "Tag": "ControlPlaneAcl",
+        "tag_description": "Control Plane Acl is configured on the system"
+    },
+    {
+        "Tag": "Cormorant",
+        "tag_description": "Cormorant CPU Card"
+    },
+    {
+        "Tag": "Crow-CrownedEagle",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Crow-eKabini",
+        "tag_description": "Crow-eKabini CPU Card"
+    },
+    {
+        "Tag": "Crow-Steppeagle",
+        "tag_description": "Crow-Steppeagle CPU Card"
+    },
+    {
+        "Tag": "CRT50216",
+        "tag_description": "Check if this is the chip on the device or if it is babbage system"
+    },
+    {
+        "Tag": "CVXClient",
+        "tag_description": "Device is configured to be a CVX client"
+    },
+    {
+        "Tag": "CVXclusterHA",
+        "tag_description": "CVX controller cluster is configured on the CVX server."
+    },
+    {
+        "Tag": "CVXserverconfigured",
+        "tag_description": "Device configured as CVX server. CVX can be disabled or enabled"
+    },
+    {
+        "Tag": "DaemonConfigured",
+        "tag_description": "A daemon is configured."
+    },
+    {
+        "Tag": "Dawson",
+        "tag_description": "Dawson CPU Card"
+    },
+    {
+        "Tag": "DCS-7050X4",
+        "tag_description": "DCS-7050X4 series"
+    },
+    {
+        "Tag": "DCS-7060X",
+        "tag_description": "DCS-7060X series"
+    },
+    {
+        "Tag": "DCS-7060X2",
+        "tag_description": "DCS-7060X2 series"
+    },
+    {
+        "Tag": "DCS-7060X4",
+        "tag_description": "Arista 7060X4 Series"
+    },
+    {
+        "Tag": "DCS-7060X5",
+        "tag_description": "DCS-7060X5 series"
+    },
+    {
+        "Tag": "DCS-7130",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7150",
+        "tag_description": "7150 Series 1/10 GbE SFP Ultra Low Latency Switch based on fm6000"
+    },
+    {
+        "Tag": "DCS-7170",
+        "tag_description": "Arista 7170 Series"
+    },
+    {
+        "Tag": "DCS-7260CX3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7260X3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280CR3",
+        "tag_description": "7280CR3 series fixed systems"
+    },
+    {
+        "Tag": "DCS-7280DR3",
+        "tag_description": "7280DR3 series fixed systems"
+    },
+    {
+        "Tag": "DCS-7280PR3",
+        "tag_description": "7280PR3 series fixed system"
+    },
+    {
+        "Tag": "DCS-7280R3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DCS-7280R3K",
+        "tag_description": "7280R3K series fixed systems"
+    },
+    {
+        "Tag": "DCS-7280SR3",
+        "tag_description": "7280SR3 series"
+    },
+    {
+        "Tag": "DCS-7289",
+        "tag_description": "7289 series"
+    },
+    {
+        "Tag": "DCS-7300",
+        "tag_description": "DCS-7300 series"
+    },
+    {
+        "Tag": "DCS-7388",
+        "tag_description": "DCS-7388 series"
+    },
+    {
+        "Tag": "DCS-7500",
+        "tag_description": "DCS-7500 series"
+    },
+    {
+        "Tag": "DCS-7500R3",
+        "tag_description": "7500R3 series"
+    },
+    {
+        "Tag": "DCS-7800",
+        "tag_description": "DCS-7800 series"
+    },
+    {
+        "Tag": "DCS-7800R3",
+        "tag_description": "DCS-7800R3 series"
+    },
+    {
+        "Tag": "defaultmoderouted",
+        "tag_description": "switchport default mode routed is configured."
+    },
+    {
+        "Tag": "DefaultRoutePresent",
+        "tag_description": ""
+    },
+    {
+        "Tag": "DefRouteECMP",
+        "tag_description": "ECMP for default route is present"
+    },
+    {
+        "Tag": "denali",
+        "tag_description": ""
+    },
+    {
+        "Tag": "dhcpRelay",
+        "tag_description": "dhcpRelay is configured"
+    },
+    {
+        "Tag": "DHCPSnoopingConf",
+        "tag_description": "Check to see if 'ip dhcp snooping' is configured"
+    },
+    {
+        "Tag": "DirectFlowActionDrop",
+        "tag_description": "The drop action configured in Directflow"
+    },
+    {
+        "Tag": "DirectFlowEnabled",
+        "tag_description": "Directflow is enabled."
+    },
+    {
+        "Tag": "DirectFlowFlows",
+        "tag_description": "Atleast 1 DirectFlow Flow is programmed."
+    },
+    {
+        "Tag": "DirectFlowVfp",
+        "tag_description": "Directflow with table type vfp configured."
+    },
+    {
+        "Tag": "DirectFmystationtcam",
+        "tag_description": "Directflow table type is mystationtcam."
+    },
+    {
+        "Tag": "dnsProxyEnabled",
+        "tag_description": "Check if 'ip domain proxy' is configured"
+    },
+    {
+        "Tag": "dot1qEncapsulation",
+        "tag_description": "Dot1q encapsulation is configured on an interface"
+    },
+    {
+        "Tag": "dot1qPortChannelEna",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Dot1qtunnel",
+        "tag_description": "Dot1q-tunnel configured."
+    },
+    {
+        "Tag": "dot1xConfigured",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Dot1xForceAuthorized",
+        "tag_description": "Configures the port to pass traffic without authentication."
+    },
+    {
+        "Tag": "DualSups",
+        "tag_description": "Both Supervisors are present in the dual -SUP device."
+    },
+    {
+        "Tag": "DynamicNATEnabled",
+        "tag_description": "Dynamic NAT Enabled"
+    },
+    {
+        "Tag": "e2etransparent",
+        "tag_description": "e2etransparent mode enabled"
+    },
+    {
+        "Tag": "EaglePeak",
+        "tag_description": "EaglePeak CPU Card"
+    },
+    {
+        "Tag": "eapiEnabled",
+        "tag_description": "Check to see if eAPI/CAPI is enabled"
+    },
+    {
+        "Tag": "ECNenabled",
+        "tag_description": "Check if ECN is configured"
+    },
+    {
+        "Tag": "EgressAclApplied",
+        "tag_description": "Outbound ACL(s) is applied on the interface"
+    },
+    {
+        "Tag": "EgressACLPo",
+        "tag_description": "Egress ACL applied on Port-channel."
+    },
+    {
+        "Tag": "EgressACLPoSubInterface",
+        "tag_description": "egress ACL applied on port-channel sub interface"
+    },
+    {
+        "Tag": "EgressMirroring",
+        "tag_description": "Egress Mirroring is enabled."
+    },
+    {
+        "Tag": "emptyACLapplied",
+        "tag_description": "Atleast one Interface in monitor session has an empty ACL"
+    },
+    {
+        "Tag": "EmptyAclPresent",
+        "tag_description": "Empty Acl is present"
+    },
+    {
+        "Tag": "eosInternational",
+        "tag_description": ""
+    },
+    {
+        "Tag": "eosSdkEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Epoch0200",
+        "tag_description": "System Epoch is 02.00"
+    },
+    {
+        "Tag": "established",
+        "tag_description": "Configuration has an established keyword to match TCP packets"
+    },
+    {
+        "Tag": "EthTxQueue",
+        "tag_description": "Check Ethernet ports with non-default tx-queue configuration"
+    },
+    {
+        "Tag": "EventHndlrOnLogg",
+        "tag_description": "Event-handler with trigger on-logging configured."
+    },
+    {
+        "Tag": "EvntHndlrConfigured",
+        "tag_description": "An Event Handler is configured."
+    },
+    {
+        "Tag": "EVPN-ASymm-IRB",
+        "tag_description": "EVPN Vxlan ASymmetric IRB is enabled"
+    },
+    {
+        "Tag": "evpn-multihoming-enabled",
+        "tag_description": "EVPN Active-Rctive multihoming is configured. Does not check for Vxlan/MPLS encap type."
+    },
+    {
+        "Tag": "EVPN-Symm-IRB",
+        "tag_description": "EVPN Vxlan Symmetric IRB is enabled"
+    },
+    {
+        "Tag": "evpnEnabled",
+        "tag_description": "EVPN is enabled. This does not check L2/L3 Evpn. Encap type can be any -Vxlan/MPLS."
+    },
+    {
+        "Tag": "evpnMplsEnabled",
+        "tag_description": "EVPN over MPLS is enabled"
+    },
+    {
+        "Tag": "evpnvpwsEnabled",
+        "tag_description": "EVPN VPWS is enabled"
+    },
+    {
+        "Tag": "evpnVxlanEnabled",
+        "tag_description": "EVPN over VXLAN is enabled"
+    },
+    {
+        "Tag": "ExceedPTP",
+        "tag_description": "check if switch exceed the maximum limit of 140 interfaces where PTP can be eanbled"
+    },
+    {
+        "Tag": "extensionsPresent",
+        "tag_description": "EOS extensions are present"
+    },
+    {
+        "Tag": "FastRerouteTILFA",
+        "tag_description": "fast-reroute ti-lfa mode configured"
+    },
+    {
+        "Tag": "FE1600",
+        "tag_description": ""
+    },
+    {
+        "Tag": "FE3200",
+        "tag_description": "Jericho series fabric chip"
+    },
+    {
+        "Tag": "FE3600",
+        "tag_description": ""
+    },
+    {
+        "Tag": "FE600",
+        "tag_description": "First generation fabric element in the Broadcom Sand chipset"
+    },
+    {
+        "Tag": "FecEncodingDisabled",
+        "tag_description": "Check if FEC ie.error-correction is disabled on a link"
+    },
+    {
+        "Tag": "fipsEnabled",
+        "tag_description": "FIPS mode on the macsec protocol has been enabled"
+    },
+    {
+        "Tag": "Firelight",
+        "tag_description": "Firelight chipset"
+    },
+    {
+        "Tag": "FlowControlInter",
+        "tag_description": "Flow Control is configured on interfaces."
+    },
+    {
+        "Tag": "FlowSecEnabled",
+        "tag_description": "Flow-sec has been enabled"
+    },
+    {
+        "Tag": "FlowTracker",
+        "tag_description": "flow tracker <> <> configuration applied in the Interface"
+    },
+    {
+        "Tag": "flowTrackingHardware",
+        "tag_description": "checks if 'flow tracking hardware' command is enabled"
+    },
+    {
+        "Tag": "FM6000",
+        "tag_description": "Intel Fulcrum FM6000 family of switch chips incorporating the Alta switching architecture"
+    },
+    {
+        "Tag": "ForwardTableFlexible",
+        "tag_description": "Check if \"platform trident forwarding-table partition flexible\" is configured"
+    },
+    {
+        "Tag": "FullconeNAT",
+        "tag_description": "ip nat source dynamic acl <list name> pool <pool name> full-cone [priority <value>] is configured to a nat profile"
+    },
+    {
+        "Tag": "FwdModeCutThrough",
+        "tag_description": "Switch Forwarding mode is Cut-through."
+    },
+    {
+        "Tag": "GeneralRouterID",
+        "tag_description": "router general is configured to use common router id for all the routing protocols."
+    },
+    {
+        "Tag": "globalDscpRewrite",
+        "tag_description": "Check if global DSCP rewrite is enabled"
+    },
+    {
+        "Tag": "gNMIEnabled",
+        "tag_description": "gNMI for OpenConfig enabled"
+    },
+    {
+        "Tag": "gnmiSSLprofile",
+        "tag_description": "SSL profile configured for GNMI."
+    },
+    {
+        "Tag": "Grackle",
+        "tag_description": "Grackle CPU Card"
+    },
+    {
+        "Tag": "GreatFountain",
+        "tag_description": "GreatFountain CPU Card"
+    },
+    {
+        "Tag": "GreEnabled",
+        "tag_description": "GRE is enabled"
+    },
+    {
+        "Tag": "GreEnSpan",
+        "tag_description": "Check if mirror session has destination as a GRE tunnel interface"
+    },
+    {
+        "Tag": "gRIBIEnabled",
+        "tag_description": "gRIBI server is enabled."
+    },
+    {
+        "Tag": "gRIBIsslProfile",
+        "tag_description": "gRIBI SSL Profile is configured."
+    },
+    {
+        "Tag": "hardwareFastFailover",
+        "tag_description": "Check if fast failover is configured in hardware"
+    },
+    {
+        "Tag": "hardwareOffload",
+        "tag_description": "Check if hardware offload has been enabled for samples flow tracking"
+    },
+    {
+        "Tag": "Helix4",
+        "tag_description": "This tag tracks the platform/chip helix4."
+    },
+    {
+        "Tag": "help",
+        "tag_description": ""
+    },
+    {
+        "Tag": "hostrouteexport",
+        "tag_description": "ip attached-host route export is configured under interface."
+    },
+    {
+        "Tag": "HPBenabled",
+        "tag_description": "HPB (hierarchical port binding) enabled in the setup"
+    },
+    {
+        "Tag": "HWCounterFeatureSubIntIngress",
+        "tag_description": "hardware counter feature Subinterface in Layer2 are configured Ingress"
+    },
+    {
+        "Tag": "ibgpEnabled",
+        "tag_description": "Confirms IBGP in use by finding peers whose ASN matches the switch's ASN"
+    },
+    {
+        "Tag": "IGMPHostProxyAcl",
+        "tag_description": "IGMP Host-Proxy is configured with an ACL."
+    },
+    {
+        "Tag": "igmpHostProxyDenyAcl",
+        "tag_description": ""
+    },
+    {
+        "Tag": "igmpHostProxyEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "IgmpSnooping",
+        "tag_description": "IGMP Snooping is enabled"
+    },
+    {
+        "Tag": "igmpSnoopingActive",
+        "tag_description": "Check if IGMP is prunning on any vlan"
+    },
+    {
+        "Tag": "igmpSnoopingProxyOn",
+        "tag_description": "Check if igmp snooping proxy has been enabled"
+    },
+    {
+        "Tag": "IgmpSnoopingSrv",
+        "tag_description": "Check to see if IgmpSnoopingSrv extension is installed"
+    },
+    {
+        "Tag": "IgpNexthopSet",
+        "tag_description": "Finds any route-map with set clause involving metric igp-nexthop-set"
+    },
+    {
+        "Tag": "implication",
+        "tag_description": ""
+    },
+    {
+        "Tag": "implications",
+        "tag_description": ""
+    },
+    {
+        "Tag": "IndividualFallback",
+        "tag_description": "Port-channel configured with Individual Fallback option."
+    },
+    {
+        "Tag": "IngressACLapplied",
+        "tag_description": "Ingress ACL is applied."
+    },
+    {
+        "Tag": "IngressACLPo",
+        "tag_description": "Check if ingress acl is applied on port-channel"
+    },
+    {
+        "Tag": "IngressRACLSVI",
+        "tag_description": "Acl configured on the ingress L3 Vlan interface."
+    },
+    {
+        "Tag": "InterfaceProfileEnabled",
+        "tag_description": "Check if at least one interface profile has been configured"
+    },
+    {
+        "Tag": "internetProfile",
+        "tag_description": "Internet profile has been configured using ip hardware fib optimize prefix-length"
+    },
+    {
+        "Tag": "IntfMaintenance",
+        "tag_description": "Interface is under Maintenance."
+    },
+    {
+        "Tag": "ipAddressUnnumbered",
+        "tag_description": "checks if ip address unnumbered is configured on any interface"
+    },
+    {
+        "Tag": "IPAddVirtCheck",
+        "tag_description": "check for ip adress virtual config"
+    },
+    {
+        "Tag": "IPArpInspConfigured",
+        "tag_description": "ip arp inspection is configured"
+    },
+    {
+        "Tag": "IpCommunitylistRegexp",
+        "tag_description": "Add an expanded community-list entry using Regexp"
+    },
+    {
+        "Tag": "ipFibCompression",
+        "tag_description": "IP FIB compression being enabled using command - ip fib compression redundant-specifics filter"
+    },
+    {
+        "Tag": "IPFIXenabled",
+        "tag_description": "IPFIX is configured on the system"
+    },
+    {
+        "Tag": "iphardwarefibnexthopurpf",
+        "tag_description": "If command ip hardware fib hierarchical next-hop urpf is enabled"
+    },
+    {
+        "Tag": "IpHardwareFibOptimize",
+        "tag_description": "When ip hardware fib optimize is being used for IPv4 route optimization"
+    },
+    {
+        "Tag": "ipospfmtuignore",
+        "tag_description": "OSPF MTU Ignore command enabled"
+    },
+    {
+        "Tag": "ipsecEnabled",
+        "tag_description": "Check if IP Sec tunnel has been created on the switch"
+    },
+    {
+        "Tag": "IPv4ACLApplied",
+        "tag_description": "IPv4 access-list is applied on Ethernet ports, Port-Channels or VLANs"
+    },
+    {
+        "Tag": "IPv4AddrLockingApplied",
+        "tag_description": "IPv4 address locking is applied on Ethernet ports, Port-Channels or VLANs"
+    },
+    {
+        "Tag": "IPv4EgressACLApplied",
+        "tag_description": "IPv4 egress ACL is applied on a port"
+    },
+    {
+        "Tag": "Ipv4Fwdbridged",
+        "tag_description": "packet ipv4 forwarding bridged is configured under feature acl port ip egress"
+    },
+    {
+        "Tag": "ipv6-Svi-configured",
+        "tag_description": "Check if vlan has SVI with IPv6 address configured on it"
+    },
+    {
+        "Tag": "Ipv6ACLApplied",
+        "tag_description": "IPv6 access-list is applied on Ethernet ports, Port-Channels or VLANs"
+    },
+    {
+        "Tag": "ipv6AclHopCount",
+        "tag_description": ""
+    },
+    {
+        "Tag": "IPv6AddrLockingApplied",
+        "tag_description": "IPv6 address locking is applied on Ethernet ports, Port-Channels or VLANs"
+    },
+    {
+        "Tag": "IPv6EgressAclApplied",
+        "tag_description": "Outbound IPv6 ACL(s) is applied on the interface"
+    },
+    {
+        "Tag": "ipv6FibCompression",
+        "tag_description": "IPv6 FIB compression being enabled using command - ipv6 fib compression redundant-specifics filter"
+    },
+    {
+        "Tag": "Ipv6Interface",
+        "tag_description": "Interface is configured with Ipv6 address."
+    },
+    {
+        "Tag": "ipv6MulticastEnabled",
+        "tag_description": "IPv6 multicast routing is enabled"
+    },
+    {
+        "Tag": "ipv6RoutingEnabled",
+        "tag_description": "IPv6 routing is enabled (default VRF)"
+    },
+    {
+        "Tag": "isisEnabled",
+        "tag_description": "Check to see if IS-IS is enabled"
+    },
+    {
+        "Tag": "ISISmd5",
+        "tag_description": "Md5 auth enabled for IS-IS."
+    },
+    {
+        "Tag": "ISISP2PInterfaces",
+        "tag_description": "Interfaces are configured as point-to-point IS-IS."
+    },
+    {
+        "Tag": "isisRedistBGP",
+        "tag_description": "Check to see if BGP is redistributed under IS-IS routing process"
+    },
+    {
+        "Tag": "isisRedistBGPRoutema",
+        "tag_description": "Check to see if we have isis running and redistributing BGP with route-map"
+    },
+    {
+        "Tag": "IsisRedistEnabled",
+        "tag_description": "redistribution enabled in ISIS"
+    },
+    {
+        "Tag": "IsisVRFenabled",
+        "tag_description": "ISIS enabled in VRF."
+    },
+    {
+        "Tag": "IslandCpu",
+        "tag_description": "IslandCpu CPU Card"
+    },
+    {
+        "Tag": "Jericho",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Jericho2",
+        "tag_description": "Jericho2 chipset"
+    },
+    {
+        "Tag": "Jericho2C",
+        "tag_description": "Jericho2C chipset"
+    },
+    {
+        "Tag": "Jericho2CPlus",
+        "tag_description": "Jericho2CPlus chipset"
+    },
+    {
+        "Tag": "JerichoFamily",
+        "tag_description": ""
+    },
+    {
+        "Tag": "JerichoPlus",
+        "tag_description": "Jericho Rev2"
+    },
+    {
+        "Tag": "jobScheduled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "L2MTUPortchannel",
+        "tag_description": "L2 MTU on port-channel interface"
+    },
+    {
+        "Tag": "L2Subinterface",
+        "tag_description": "Check if L2Subinterface has been configured"
+    },
+    {
+        "Tag": "L3InterConfigured",
+        "tag_description": "L3 Interface is configured."
+    },
+    {
+        "Tag": "L3Subinterface",
+        "tag_description": "Check if L3Subinterface has been configured"
+    },
+    {
+        "Tag": "LACPPortChannel",
+        "tag_description": "Port-channel formed using LACP."
+    },
+    {
+        "Tag": "LAGsubintEnabled",
+        "tag_description": "LAG subinterfaces are configured"
+    },
+    {
+        "Tag": "lanzEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "LDPEnabled",
+        "tag_description": "LDP Agent is running."
+    },
+    {
+        "Tag": "LinkDebounce",
+        "tag_description": "Link-debounce feature is enabled."
+    },
+    {
+        "Tag": "LoadIntervalDefault",
+        "tag_description": "Default load-interval configuration"
+    },
+    {
+        "Tag": "local-v4-addr",
+        "tag_description": ""
+    },
+    {
+        "Tag": "local-v6-addr",
+        "tag_description": ""
+    },
+    {
+        "Tag": "LocalASFallback",
+        "tag_description": "BGP local-as configured with fallback option."
+    },
+    {
+        "Tag": "LockedAddrV4EnfDisabledConf",
+        "tag_description": "locked-address ipv4 enforcement disabled is configured in address locking"
+    },
+    {
+        "Tag": "LockedAddrV6EnfDisabledConf",
+        "tag_description": "locked-address ipv6 enforcement disabled is configured in address locking"
+    },
+    {
+        "Tag": "loggingACCdisabled",
+        "tag_description": "Account logging is disabled."
+    },
+    {
+        "Tag": "logginghostIP",
+        "tag_description": "Remote logging host is an IP and not the hostname."
+    },
+    {
+        "Tag": "LoggingSourceInt",
+        "tag_description": "logging source-interface is configured"
+    },
+    {
+        "Tag": "loggingSynchronous",
+        "tag_description": "when logging synchronous is configured"
+    },
+    {
+        "Tag": "loggingUDP",
+        "tag_description": "logging hosts with protocol UDP"
+    },
+    {
+        "Tag": "LoopProtectionEn",
+        "tag_description": "Loop protection is enabled"
+    },
+    {
+        "Tag": "Lorikeet",
+        "tag_description": "Lorikeet CPU card"
+    },
+    {
+        "Tag": "Lorikeet-4C-8T",
+        "tag_description": "Lorikeet 4C-8T CPU card"
+    },
+    {
+        "Tag": "Lorikeet-8C-16T",
+        "tag_description": "Lorikeet 8C-16T CPU card"
+    },
+    {
+        "Tag": "mac-timestamp-48bit",
+        "tag_description": "TapAgg Timestamping with 48bit header enabled"
+    },
+    {
+        "Tag": "macAclApplied",
+        "tag_description": "MAC ACL is applied on the system"
+    },
+    {
+        "Tag": "MacAddrLearningDisabled",
+        "tag_description": "mac address learning disabled is configured"
+    },
+    {
+        "Tag": "MacAgingtime",
+        "tag_description": "configures the aging time for MAC address table dynamic entries"
+    },
+    {
+        "Tag": "MacFlushingInfVlanAggDisabled",
+        "tag_description": "mac address-table flushing interface vlan aggregation disabled is applied"
+    },
+    {
+        "Tag": "MacSec",
+        "tag_description": "Check b4 tagimplications - refers to all platforms that support Macsec(not necessarily configured)."
+    },
+    {
+        "Tag": "MacsecEnabled",
+        "tag_description": "Macsec feature is enabled on the device. Does not check platforms.Does not check if it is enabled on interface"
+    },
+    {
+        "Tag": "Magpie",
+        "tag_description": "Magpie CPU Card"
+    },
+    {
+        "Tag": "MaintenanceModeConf",
+        "tag_description": "Maintenace mode is configured. It may/may not be enabled."
+    },
+    {
+        "Tag": "ManagementVRF",
+        "tag_description": "Management interface is configured under non-default VRF"
+    },
+    {
+        "Tag": "map-t-enabled",
+        "tag_description": "Check if Map-T is enabled"
+    },
+    {
+        "Tag": "MaxRouteWarning",
+        "tag_description": "maximum-routes <number> warning-only|warning-limit' command is configured for a peer"
+    },
+    {
+        "Tag": "Mcast-Ipv4-SfeModeEnabled",
+        "tag_description": "Ipv4 Multicast forwarding using BESS (MFA) is enabled"
+    },
+    {
+        "Tag": "Mcast-Ipv6-SfeModeEnabled",
+        "tag_description": "Ipv6 Multicast forwarding using BESS (MFA) is enabled"
+    },
+    {
+        "Tag": "mcastBoundaryEnabled",
+        "tag_description": "multicast boundary configured on at least 1 interface"
+    },
+    {
+        "Tag": "MCSServiceEnabled",
+        "tag_description": "MCS Service enabled on CVX"
+    },
+    {
+        "Tag": "Mendocino",
+        "tag_description": "Mendocino CPU Card"
+    },
+    {
+        "Tag": "MirroringACLEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "MirrorToFrontPanelPort",
+        "tag_description": "mirroring to a front panel port configured"
+    },
+    {
+        "Tag": "mixLC",
+        "tag_description": "System has mix of Arad and Jericho linecards."
+    },
+    {
+        "Tag": "MlagDualPrimary",
+        "tag_description": "Mlag Dual Primary Detection feature is enabled."
+    },
+    {
+        "Tag": "mlagEnabled",
+        "tag_description": "Mlag is enabled"
+    },
+    {
+        "Tag": "mlagFastMacRedirTrue",
+        "tag_description": "Check to see whether MLAG fast mac redirection is enabled"
+    },
+    {
+        "Tag": "MlagInactive",
+        "tag_description": "MLAG state is Inactive"
+    },
+    {
+        "Tag": "MLAGinterface",
+        "tag_description": "MLAG interfaces are configured."
+    },
+    {
+        "Tag": "mlagPeerMacRouteTrue",
+        "tag_description": "Check to see if MLAG peer MAC routing is enabled"
+    },
+    {
+        "Tag": "MlagVersionIncomp",
+        "tag_description": "MLAG Negotiation status is Version Incompatible"
+    },
+    {
+        "Tag": "mldEnabled",
+        "tag_description": "Check if Ipv6 MLD is enabled"
+    },
+    {
+        "Tag": "MLDviaeapi",
+        "tag_description": "MLD config + eapi/cvp configured on the switch"
+    },
+    {
+        "Tag": "modular",
+        "tag_description": "Modular sku type"
+    },
+    {
+        "Tag": "modularEpoch0",
+        "tag_description": "Atleast one card with hardware revision < 10"
+    },
+    {
+        "Tag": "modularEpoch1",
+        "tag_description": "Atleast one card with hardware revision > 10"
+    },
+    {
+        "Tag": "ModuleRev",
+        "tag_description": "Atleast one module in the card slot has hardware revision < 3"
+    },
+    {
+        "Tag": "MonitorDestCPU",
+        "tag_description": "Monitor session with Destination CPU configured."
+    },
+    {
+        "Tag": "MontaraCpu",
+        "tag_description": "MontaraCpu CPU Card"
+    },
+    {
+        "Tag": "Morethan1CVXService",
+        "tag_description": "Device has more than one CVX service enabled"
+    },
+    {
+        "Tag": "MPLSEnabled",
+        "tag_description": "MPLS Routing is enabled."
+    },
+    {
+        "Tag": "MPLSLDPinterface",
+        "tag_description": "MPLS ldp is configured on an interface"
+    },
+    {
+        "Tag": "MplsOverGre",
+        "tag_description": "MPLS-over-GRE is configured."
+    },
+    {
+        "Tag": "MSDPenabled",
+        "tag_description": "List of peer addresses id not empty."
+    },
+    {
+        "Tag": "MSSserviceenabled",
+        "tag_description": "Service MSS is enabled in CVX."
+    },
+    {
+        "Tag": "MSTPenabled",
+        "tag_description": "STP mode is MSTP."
+    },
+    {
+        "Tag": "MulticastBuffer",
+        "tag_description": "Check if multicast buffer is enabled via the command platform sand multicast replication ingress buffer maximum"
+    },
+    {
+        "Tag": "multicastEnabled",
+        "tag_description": "IPv4 multicast routing is enabled"
+    },
+    {
+        "Tag": "MulticastFib",
+        "tag_description": "When run show multicast fib ipv4 <vrf [vrf-name]> <group> <source> counters for JSON format, the ConfigAgent agent can restart unexpectedly"
+    },
+    {
+        "Tag": "multicastStatic",
+        "tag_description": "'ip multicast static' is enabled"
+    },
+    {
+        "Tag": "MulticastStormControlEnabled",
+        "tag_description": "Multicast Storm control is enabled for at least one port"
+    },
+    {
+        "Tag": "multicsatEnabledinVRF",
+        "tag_description": "Check if IPv4 multicast routing is enabled in any non-default VRF"
+    },
+    {
+        "Tag": "MultiVlanTranslation",
+        "tag_description": "Multiple vlan translation entries (single or double tag) are configured"
+    },
+    {
+        "Tag": "natEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "NetconfConfigured",
+        "tag_description": "To Check if Netconf is part of configuration on the device (not necessarily enabled)"
+    },
+    {
+        "Tag": "netconfenabled",
+        "tag_description": "Netconf is enabled."
+    },
+    {
+        "Tag": "NewportCpu",
+        "tag_description": "NewportCpu chipset"
+    },
+    {
+        "Tag": "nexthop-group-unshared",
+        "tag_description": "counters in nexthop-group are of type unshared"
+    },
+    {
+        "Tag": "NexthopGroupConfigured",
+        "tag_description": "Check if nexthop-group has been configured"
+    },
+    {
+        "Tag": "nexthopPeer-Address",
+        "tag_description": "Finds any route-map with set clause involving ip[v6] next hop peer-address"
+    },
+    {
+        "Tag": "noAclmatch",
+        "tag_description": "No packets match on the Acl"
+    },
+    {
+        "Tag": "nobestpath",
+        "tag_description": "no bgp bestpath as-path multipath-relax is configured and would configure best-path selection to consider two paths unequal if their AS path contents are different, and prefers the first path received"
+    },
+    {
+        "Tag": "NoGraceHelperPeer",
+        "tag_description": ""
+    },
+    {
+        "Tag": "nonArista100GLR",
+        "tag_description": "QSFP-100G-LR4 or QSFP-100G-LRL4 is a third-party transceiver."
+    },
+    {
+        "Tag": "NoofBGPNeigh",
+        "tag_description": "Number of BGP neighbors greater than 1000"
+    },
+    {
+        "Tag": "noofSTPtopologies",
+        "tag_description": "The number of STP topologies"
+    },
+    {
+        "Tag": "NoPasswordLogin",
+        "tag_description": "Check to see if logins with accounts with empty passwords is permitted"
+    },
+    {
+        "Tag": "NoSnmpTrapBGPOSPF",
+        "tag_description": "snmp-server enable traps for bgp and ospf is disabled"
+    },
+    {
+        "Tag": "ntpEnabled",
+        "tag_description": "check if NTP is configured"
+    },
+    {
+        "Tag": "NtpInVRF",
+        "tag_description": "NTP enabled in VRF"
+    },
+    {
+        "Tag": "NTPv3-configured",
+        "tag_description": "check if NTPv3 is configured"
+    },
+    {
+        "Tag": "Oak",
+        "tag_description": "Oak CPU Card"
+    },
+    {
+        "Tag": "octa",
+        "tag_description": "Checks if octa server/process is enabled"
+    },
+    {
+        "Tag": "OldFaithful",
+        "tag_description": "OldFaithful CPU Card"
+    },
+    {
+        "Tag": "OpenFlowEnabled",
+        "tag_description": "OpenFlow is Enabled"
+    },
+    {
+        "Tag": "openstackEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OperSpeed100G",
+        "tag_description": "Operational Speed (auto/speedforced) is 100G"
+    },
+    {
+        "Tag": "OperSpeed100M",
+        "tag_description": "Operational Speed (auto/speedforced) is 100M"
+    },
+    {
+        "Tag": "OperSpeed10G",
+        "tag_description": "Operational Speed (auto/speedforced) is 10G"
+    },
+    {
+        "Tag": "OperSpeed1G",
+        "tag_description": "Operational Speed (auto/speedforced) is 1G"
+    },
+    {
+        "Tag": "OperSpeed2-5G",
+        "tag_description": "Operational Speed (auto/speedforced) is 2.5G"
+    },
+    {
+        "Tag": "OperSpeed25G",
+        "tag_description": "Operational Speed (auto/speedforced) is 25G"
+    },
+    {
+        "Tag": "OperSpeed40G",
+        "tag_description": "Operational Speed (auto/speedforced) is 40G"
+    },
+    {
+        "Tag": "OperSpeed50G",
+        "tag_description": "Operational Speed (auto/speedforced) is 50G"
+    },
+    {
+        "Tag": "ospf",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OspfAreaID",
+        "tag_description": "ip ospf area <areaId> is configued in the interface"
+    },
+    {
+        "Tag": "OspfDefOriginal",
+        "tag_description": "OSPF default-information originate always is configured"
+    },
+    {
+        "Tag": "ospfEnabled",
+        "tag_description": "ospf is enabled"
+    },
+    {
+        "Tag": "ospfGracefulRestart",
+        "tag_description": "Check to see if OSPF graceful restart is enabled"
+    },
+    {
+        "Tag": "OspfGraceHelper",
+        "tag_description": "OSPF Graceful Restart Helper enabled"
+    },
+    {
+        "Tag": "OspfNssaInterface",
+        "tag_description": ""
+    },
+    {
+        "Tag": "OSPFP2PInterfaces",
+        "tag_description": "Interfaces are configured as point-to-point OSPF"
+    },
+    {
+        "Tag": "OspfPassiveInt",
+        "tag_description": "[no] passive-interface <interface> is configured"
+    },
+    {
+        "Tag": "OspfRedistEnabled",
+        "tag_description": "redistribution enabled in OSPF"
+    },
+    {
+        "Tag": "OspfRedistRoutemapOn",
+        "tag_description": "Ospf has redistributed routes with a route-map"
+    },
+    {
+        "Tag": "Ospfrediststatic",
+        "tag_description": "OSPF redistribute static enabled"
+    },
+    {
+        "Tag": "ospfv2encrypt-int",
+        "tag_description": "Check if encryption is enabled for OSPFv2 under interface configuration"
+    },
+    {
+        "Tag": "ospfV3Enabled",
+        "tag_description": "IPv6 OSPFv3 enabled"
+    },
+    {
+        "Tag": "ospfv3encrypt-area",
+        "tag_description": "Check if encryption is enabled for OSPFv3 under 'ipv6 router ospf' mode"
+    },
+    {
+        "Tag": "ospfv3encrypt-int",
+        "tag_description": "Check if encryption is enabled for OSPFv3 under interface configuration"
+    },
+    {
+        "Tag": "ospfv3GracefulRestart",
+        "tag_description": "graceful restart is enabled for OSPV3"
+    },
+    {
+        "Tag": "Ospfv3RedistEnabled",
+        "tag_description": "Routes are getting Redistributed in Ospfv3."
+    },
+    {
+        "Tag": "OspfVRFenabled",
+        "tag_description": "OSPF enabled in VRF."
+    },
+    {
+        "Tag": "outAcl",
+        "tag_description": "An egress data plane ACL is applied in the configuration"
+    },
+    {
+        "Tag": "P2Ptransparent",
+        "tag_description": "p2ptransparent mode enabled"
+    },
+    {
+        "Tag": "packet-type-mpls-gre",
+        "tag_description": "Check if the command packet-type mpls-over-gre outer-ip is configured"
+    },
+    {
+        "Tag": "PBRconfigured",
+        "tag_description": "PBR is configured."
+    },
+    {
+        "Tag": "PeerMacRouting",
+        "tag_description": "Peer-mac Routing enabled on MLAG Peer."
+    },
+    {
+        "Tag": "Petra",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PFCEnable",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PFCRecTimeForced",
+        "tag_description": "Check to see if PFC recovery-time is set to a forced value"
+    },
+    {
+        "Tag": "pim-and-mbr-int",
+        "tag_description": "Check if there is any interface pim and mbr enabled"
+    },
+    {
+        "Tag": "pimBsrConfigured",
+        "tag_description": "Check to see if a bsr-candidate is configured"
+    },
+    {
+        "Tag": "pimEnabled",
+        "tag_description": "Check if IPv4 PIM is enabled on any interface"
+    },
+    {
+        "Tag": "pimEnabledSVI",
+        "tag_description": "Check if PIM is enabled on SVI"
+    },
+    {
+        "Tag": "pimIpv6Enabled",
+        "tag_description": "Check if IPv6 PIM is enabled on any interface"
+    },
+    {
+        "Tag": "poe",
+        "tag_description": "POE devices."
+    },
+    {
+        "Tag": "POErebootMaintain",
+        "tag_description": "poe reboot action maintain command exists in the running config"
+    },
+    {
+        "Tag": "PolicerProfile",
+        "tag_description": "enabled Policer profile in the interface"
+    },
+    {
+        "Tag": "PolicyMapConfigured",
+        "tag_description": "Check if policy map is configured"
+    },
+    {
+        "Tag": "PolicyMaptapagg",
+        "tag_description": "Service Policy map type tap aggregation is configured."
+    },
+    {
+        "Tag": "PolicyMaptapaggMatch",
+        "tag_description": "match <ip|ipv6|mac> <rule> <action> <name> is configured under policy-map type tapagg <name>"
+    },
+    {
+        "Tag": "portChannelEnabled",
+        "tag_description": "Port-channel with members exists"
+    },
+    {
+        "Tag": "PortChannelOspf",
+        "tag_description": "Ospf is enabled on a Port-channel interface."
+    },
+    {
+        "Tag": "PortChannelTap",
+        "tag_description": "Port-channel is a tap port."
+    },
+    {
+        "Tag": "PortChannelTool",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PortchannelTxQueue",
+        "tag_description": "Check Portchannels with non-default tx-queue configuration"
+    },
+    {
+        "Tag": "PortchGuardErrdis",
+        "tag_description": "An interface is errdisabled due to portchannelguard reason"
+    },
+    {
+        "Tag": "PortchGuardMisconfig",
+        "tag_description": "spanning-tree portchannel guard misconfig is configured"
+    },
+    {
+        "Tag": "portMirroringEnabled",
+        "tag_description": "At least one monitor session enabled"
+    },
+    {
+        "Tag": "PrairieIslandCpu",
+        "tag_description": "PrairieIslandCpu CPU card"
+    },
+    {
+        "Tag": "PRBSConfigured",
+        "tag_description": "Check if PRBS is configured"
+    },
+    {
+        "Tag": "priorityFlowControl",
+        "tag_description": "Priority Flow Control is enabled"
+    },
+    {
+        "Tag": "profile-tc-counters",
+        "tag_description": "Check if the hardware Tcam profile tc-counters is enabled"
+    },
+    {
+        "Tag": "PseudowireConfigured",
+        "tag_description": "LDP Pseudowire is configured."
+    },
+    {
+        "Tag": "ptpBoundaryClockEnab",
+        "tag_description": ""
+    },
+    {
+        "Tag": "PTPE2ETrans",
+        "tag_description": "PTP mode is E2E transparent mode."
+    },
+    {
+        "Tag": "PTPEnabledInterface",
+        "tag_description": "An interface has PTP enabled."
+    },
+    {
+        "Tag": "PTPForwardV1",
+        "tag_description": "ptp forwarding-v1 is configured in the running-config"
+    },
+    {
+        "Tag": "PtpFwdUnicast",
+        "tag_description": "The command ptp forward unicast is configured on the device."
+    },
+    {
+        "Tag": "PTPMonitorThresholdOffsetDrop",
+        "tag_description": "Check if ptp monitor threshold offset-from-master drop command is configured"
+    },
+    {
+        "Tag": "ptpvlanenabled",
+        "tag_description": "PTP vlan enabled"
+    },
+    {
+        "Tag": "Puffin-Prime",
+        "tag_description": "Puffin-Prime CPU Card"
+    },
+    {
+        "Tag": "pwr460",
+        "tag_description": "PWR-460AC-[FR] power supply"
+    },
+    {
+        "Tag": "QMonitorStreamVRF",
+        "tag_description": "Queue-monitor streaming vrf configured."
+    },
+    {
+        "Tag": "qosCOSTrusted",
+        "tag_description": "Check to see if any interfaces use COS trust"
+    },
+    {
+        "Tag": "qosDSCPTrusted",
+        "tag_description": "Check to see if any interfaces use DSCP trust"
+    },
+    {
+        "Tag": "qosPMAPConfigured",
+        "tag_description": "QoS Policy Map is configured and applied."
+    },
+    {
+        "Tag": "qosPolicyMapApplied",
+        "tag_description": ""
+    },
+    {
+        "Tag": "qosShaping",
+        "tag_description": "Check if shape rate is configured on an interface"
+    },
+    {
+        "Tag": "QSFP-40G-AR4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "QueueMonitorLength",
+        "tag_description": "queue-monitor length is enabled"
+    },
+    {
+        "Tag": "Qumran-AX",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Qumran-MX",
+        "tag_description": "Qumran-MX model."
+    },
+    {
+        "Tag": "Qumran2A",
+        "tag_description": "Qumran2A chipset"
+    },
+    {
+        "Tag": "Qumran2C",
+        "tag_description": "Qumran2C chipset"
+    },
+    {
+        "Tag": "RaclConfigured",
+        "tag_description": "RAcl is configured"
+    },
+    {
+        "Tag": "Radius",
+        "tag_description": "Radius has server"
+    },
+    {
+        "Tag": "Ramon",
+        "tag_description": "Ramon chipset"
+    },
+    {
+        "Tag": "rapidPVSTEnabled",
+        "tag_description": "RPVST is enabled"
+    },
+    {
+        "Tag": "Raven",
+        "tag_description": "Raven CPU Card"
+    },
+    {
+        "Tag": "RDLACPstandby",
+        "tag_description": "reload-delay mode lacp standby configured."
+    },
+    {
+        "Tag": "recirc-channel",
+        "tag_description": "Check if recirculation is enabled for Vxlan routing"
+    },
+    {
+        "Tag": "recircenabled",
+        "tag_description": "Check if recirc is enabled"
+    },
+    {
+        "Tag": "redistributedIntoBGP",
+        "tag_description": "Check if there are any routes redistributed into BGP. This includes static, OSPF, ISIS, connected."
+    },
+    {
+        "Tag": "RedistRMAPinRIP",
+        "tag_description": "Routes are redistributed in RIP using route-map"
+    },
+    {
+        "Tag": "Redwood",
+        "tag_description": "Redwood CPU Card"
+    },
+    {
+        "Tag": "ResilientECMP",
+        "tag_description": "Check if Resilient ECMP is configured"
+    },
+    {
+        "Tag": "restconfenabled",
+        "tag_description": "RestConf is Enabled."
+    },
+    {
+        "Tag": "rfc5549ExtendedNexthopEncoding",
+        "tag_description": "next-hop address-family ipv6 is configured under address-family v4"
+    },
+    {
+        "Tag": "RFC5549nexthop",
+        "tag_description": "ip hardware fib next-hop rfc5549 dedicated is configured."
+    },
+    {
+        "Tag": "RibModel",
+        "tag_description": "Rib agent routing model is enabled"
+    },
+    {
+        "Tag": "ripEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Rmap-matchCommunityList",
+        "tag_description": "Route-map with match community community-list x y z additive configured"
+    },
+    {
+        "Tag": "Rmap-noAdvertAdd",
+        "tag_description": "Route-map with - set community no-advertise additive configured."
+    },
+    {
+        "Tag": "Rmap-noExpAdd",
+        "tag_description": "Route-map with - set community no-export additive configured."
+    },
+    {
+        "Tag": "Rmap-setCommunityList",
+        "tag_description": "Route-map with set community community-list x y z additive configured"
+    },
+    {
+        "Tag": "Rook",
+        "tag_description": "Rook CPU Card"
+    },
+    {
+        "Tag": "RootBridge",
+        "tag_description": "Device is a Root Bridge."
+    },
+    {
+        "Tag": "routedPort",
+        "tag_description": "Device has routed ports"
+    },
+    {
+        "Tag": "routemapAspathAuto",
+        "tag_description": "Check if route map has command \"set as-path prepend auto auto auto\". The prepend list ONLY contains auto keywords and it may repeat one or more times"
+    },
+    {
+        "Tag": "routeMapSetMetric",
+        "tag_description": "Finds any route-map with set clause involving metric"
+    },
+    {
+        "Tag": "routingEnabled",
+        "tag_description": "IPv4 routing is enabled (default VRF)"
+    },
+    {
+        "Tag": "routingEnabled-NonDefaultVrf",
+        "tag_description": "IPv4 routing is enabled for non-default VRF"
+    },
+    {
+        "Tag": "rpCandholdTimeChk",
+        "tag_description": ""
+    },
+    {
+        "Tag": "RPenabled",
+        "tag_description": "Check if the device is RP for any multicast group"
+    },
+    {
+        "Tag": "RPRRedundancy",
+        "tag_description": "Redundancy mode is RPR."
+    },
+    {
+        "Tag": "RsvpEnabled",
+        "tag_description": "RSVP is enabled"
+    },
+    {
+        "Tag": "rsyslogserver",
+        "tag_description": "Remote Sys log server configured."
+    },
+    {
+        "Tag": "rsyslogserverTCP",
+        "tag_description": "Remote Syslog server configured over TCP connection"
+    },
+    {
+        "Tag": "SameSourceMonitors",
+        "tag_description": "Same source in multiple monitor session"
+    },
+    {
+        "Tag": "Sampledflowtracking",
+        "tag_description": "Sampled flow tracking is enabled"
+    },
+    {
+        "Tag": "Samplesflowtracking",
+        "tag_description": "Sampled flow tracking is enabled"
+    },
+    {
+        "Tag": "Sand",
+        "tag_description": "Sand family"
+    },
+    {
+        "Tag": "SandGen3",
+        "tag_description": "SandGen3 platforms, see tagimplications for details."
+    },
+    {
+        "Tag": "SandGen4",
+        "tag_description": ""
+    },
+    {
+        "Tag": "sandIngrReplication",
+        "tag_description": "determine if a sand device is running ingress replicaiton mode"
+    },
+    {
+        "Tag": "SandL3Unicast",
+        "tag_description": "SandL3Unicast agent"
+    },
+    {
+        "Tag": "secAdv0021patched",
+        "tag_description": "Check if the patch for Security Advisory 0021 is present and installed"
+    },
+    {
+        "Tag": "SegmentRoutingEnabled",
+        "tag_description": "segment routing has been enabled"
+    },
+    {
+        "Tag": "SegmentSecurityEnabled",
+        "tag_description": "Segment security feature is enabled."
+    },
+    {
+        "Tag": "SessionConfigEnabled",
+        "tag_description": "Configuration session is present on the device"
+    },
+    {
+        "Tag": "sfe",
+        "tag_description": "checks if sfe agent is running in vRouter"
+    },
+    {
+        "Tag": "sflowBgpExport",
+        "tag_description": ""
+    },
+    {
+        "Tag": "sflowEgress",
+        "tag_description": "Egress Sflow sampling enabled"
+    },
+    {
+        "Tag": "SflowEnabled",
+        "tag_description": "Sflow is globally enabled"
+    },
+    {
+        "Tag": "SflowExtensionBgp",
+        "tag_description": "Check if sflow with bgp extension is enabled on the switch"
+    },
+    {
+        "Tag": "Sflowhardwareaccel",
+        "tag_description": "sflow hardware acceleration"
+    },
+    {
+        "Tag": "sflowInterface",
+        "tag_description": "Check if sflow is enabled on an interface"
+    },
+    {
+        "Tag": "sflowportchannel",
+        "tag_description": "Sflow Sampling interface is a port-channel."
+    },
+    {
+        "Tag": "SFPOnly",
+        "tag_description": ""
+    },
+    {
+        "Tag": "SimplexRedundancy",
+        "tag_description": "Redundancy mode is Simplex."
+    },
+    {
+        "Tag": "SingleActiveEVPNMultihoming",
+        "tag_description": "Single-active EVPN multi-homing is configured"
+    },
+    {
+        "Tag": "SNMPenabled",
+        "tag_description": "Check SNMP is enabled"
+    },
+    {
+        "Tag": "snmpViewEnabled",
+        "tag_description": "Test for snmp view presence"
+    },
+    {
+        "Tag": "softwareLAGsEnable",
+        "tag_description": "Check to see if software LAGs are in use"
+    },
+    {
+        "Tag": "SourceportFilter",
+        "tag_description": "Source-port filter disabled"
+    },
+    {
+        "Tag": "SpeedAuto",
+        "tag_description": "SpeedAuto - configures the interface to speed auto which Enable autoneg for speed, duplex, and flowcontrol"
+    },
+    {
+        "Tag": "Speedforce100G",
+        "tag_description": "Interface speed forced to 100G"
+    },
+    {
+        "Tag": "Speedforce100M",
+        "tag_description": "Interfaces speed forced to 100M"
+    },
+    {
+        "Tag": "Speedforce10G",
+        "tag_description": "Interface speed forced to 10G"
+    },
+    {
+        "Tag": "Speedforce25G",
+        "tag_description": "Interface speed forced to 25G"
+    },
+    {
+        "Tag": "Speedforce40G",
+        "tag_description": "Interface speed forced to 40G"
+    },
+    {
+        "Tag": "Speedforce50G",
+        "tag_description": "Interface speed forced to 50G"
+    },
+    {
+        "Tag": "speedforced",
+        "tag_description": ""
+    },
+    {
+        "Tag": "srTE-enabled",
+        "tag_description": "Check if Sr-TE has been configured on the switch"
+    },
+    {
+        "Tag": "ssdMounted",
+        "tag_description": ""
+    },
+    {
+        "Tag": "sshinVRF",
+        "tag_description": "SSH enabled in a VRF"
+    },
+    {
+        "Tag": "SsmGroupEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "ssoConfigured",
+        "tag_description": "sso is configured"
+    },
+    {
+        "Tag": "ssoEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "static128RouteToIntf",
+        "tag_description": "Check to see if /128 static routes pointing to an i/f - not loopback - are configured"
+    },
+    {
+        "Tag": "static32RouteToIntf",
+        "tag_description": "Check to see if /32 static routes pointing to an i/f - not loopback - are configured"
+    },
+    {
+        "Tag": "StaticDefroute",
+        "tag_description": "A static default route is configured"
+    },
+    {
+        "Tag": "StaticIPv6NullRoute",
+        "tag_description": "A static IPv6 Null route."
+    },
+    {
+        "Tag": "StaticMACentry",
+        "tag_description": "if a static MAC entry is configured on the device"
+    },
+    {
+        "Tag": "staticMroute",
+        "tag_description": "Check to see if any static mroutes are configured"
+    },
+    {
+        "Tag": "StaticNAT",
+        "tag_description": "Static NAT is configured."
+    },
+    {
+        "Tag": "StaticNullRoute",
+        "tag_description": ""
+    },
+    {
+        "Tag": "StormCtrlDisabled",
+        "tag_description": "Storm Control is disabled."
+    },
+    {
+        "Tag": "STPbackupmode",
+        "tag_description": "STP is running in backup mode."
+    },
+    {
+        "Tag": "STPcost",
+        "tag_description": "STP cost is configured on an interface."
+    },
+    {
+        "Tag": "stpEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Strata",
+        "tag_description": "Strata family"
+    },
+    {
+        "Tag": "stubConfigured",
+        "tag_description": "See if Stub areas are configured"
+    },
+    {
+        "Tag": "SubIntCountersOut",
+        "tag_description": "Check if enabled Sub-Interface counters for egress"
+    },
+    {
+        "Tag": "subintEnabled",
+        "tag_description": "Any sub-interfaces configured"
+    },
+    {
+        "Tag": "SubIntIngressCounterIndexLIF",
+        "tag_description": "platform jericho subinterface ingress counter index lif is configured"
+    },
+    {
+        "Tag": "Surfbird",
+        "tag_description": "Surfbird CPU card"
+    },
+    {
+        "Tag": "Svi-configured",
+        "tag_description": "Check if vlan has a SVI"
+    },
+    {
+        "Tag": "svi-vrf-no-routing",
+        "tag_description": "SVI assigned to a VRF with ip or ipv6 routing disabled"
+    },
+    {
+        "Tag": "SwitchApp",
+        "tag_description": "Check if SwitchApp is enabled on the device"
+    },
+    {
+        "Tag": "SwitchportTrunkPhone",
+        "tag_description": "switchport mode trunk phone configured."
+    },
+    {
+        "Tag": "t2multi",
+        "tag_description": ""
+    },
+    {
+        "Tag": "TACACSenabled",
+        "tag_description": "Check if AAA using TACACS+ is enabled"
+    },
+    {
+        "Tag": "TapAgg-80Bit-keysize-enabled",
+        "tag_description": "Applied TCAM profile has 'key size limit 80' configured"
+    },
+    {
+        "Tag": "tapaggEnabled",
+        "tag_description": "Tap aggregation enabled (at least one group present)"
+    },
+    {
+        "Tag": "TapaggIdVlanTagging",
+        "tag_description": "Check if Tool ports are configured to add an identity tag to append the originating TAP port\u2019s identity number in the outer layer (or s-VLAN) tag."
+    },
+    {
+        "Tag": "TapaggMacReplace",
+        "tag_description": "Check if Tap Aggregation MAC Address Replacement feature is enabled."
+    },
+    {
+        "Tag": "TapAggVxlanStrip",
+        "tag_description": "Check if vxlan header stripping feature is configured"
+    },
+    {
+        "Tag": "TCAMExtendedTapaggProfile",
+        "tag_description": "system profile tap-aggregation-extended is configured in the TCAM profile"
+    },
+    {
+        "Tag": "TCAMFeatTPActionV4",
+        "tag_description": "Action is configured under feature traffic-policy port ipv4 in TCAM Profile"
+    },
+    {
+        "Tag": "TCAMFeatTPKeyFieldV4",
+        "tag_description": "key field is configured under feature traffic-policy port ipv4 in TCAM Profile"
+    },
+    {
+        "Tag": "TCAMFeatTPKeyFieldV6",
+        "tag_description": "key field is configured under feature traffic-policy port ipv6 in TCAM Profile"
+    },
+    {
+        "Tag": "TCAMFeatTPyActionV6",
+        "tag_description": "Action is configured under feature traffic-policy port ipv6 in TCAM Profile"
+    },
+    {
+        "Tag": "TCAMprofile",
+        "tag_description": "Check if TCAM profile has been configured"
+    },
+    {
+        "Tag": "tcamProfileFlex-route",
+        "tag_description": "TCAM profile for Flex-route has been configured"
+    },
+    {
+        "Tag": "tcamprofMirrorACL",
+        "tag_description": "Tcam Profile is Mirroring-ACL"
+    },
+    {
+        "Tag": "TCP-MSS-CLAMPING",
+        "tag_description": "is TCP-MSS-CLAMPING enabled"
+    },
+    {
+        "Tag": "TEConfigured",
+        "tag_description": "Traffic engineering is enabled on the device using router traffic-engineering command."
+    },
+    {
+        "Tag": "TelegrapfEnabled",
+        "tag_description": "monitor telemetry influx is configured to enable Telegrapf."
+    },
+    {
+        "Tag": "timestamp",
+        "tag_description": "mac timestamp configured."
+    },
+    {
+        "Tag": "Titanhawk",
+        "tag_description": "TitanHawk chip"
+    },
+    {
+        "Tag": "Tofino",
+        "tag_description": "Tofino Chipset"
+    },
+    {
+        "Tag": "Tofino2-6x4T",
+        "tag_description": "Tofino2 6.4T chipset"
+    },
+    {
+        "Tag": "Tomahawk",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Tomahawk2",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Tomahawk3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Tomahawk4-100",
+        "tag_description": "Tomahawk4-100 chipset"
+    },
+    {
+        "Tag": "Tomahawk4-50",
+        "tag_description": "Tomahawk4-50 chipset"
+    },
+    {
+        "Tag": "TomahawkPlus",
+        "tag_description": ""
+    },
+    {
+        "Tag": "totalStubConfigured",
+        "tag_description": "See if Totally stub areas are configured"
+    },
+    {
+        "Tag": "TrafficPolicyActionLog",
+        "tag_description": "traffic-policy with log action is configured"
+    },
+    {
+        "Tag": "TrafficPolicyInput",
+        "tag_description": "traffic-policy input is applied on Ethernet ports and Port-Channels"
+    },
+    {
+        "Tag": "TrafficPolicyMatch",
+        "tag_description": "match is configured under traffic-policy <name>"
+    },
+    {
+        "Tag": "Trident2",
+        "tag_description": "High Capacity StrataXGS\u00ae Ethernet Switch Series"
+    },
+    {
+        "Tag": "Trident2Plus",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Trident3",
+        "tag_description": ""
+    },
+    {
+        "Tag": "Trident3X1",
+        "tag_description": "Trident3X1 chipset"
+    },
+    {
+        "Tag": "Trident3X2",
+        "tag_description": "Trident3X2 chipset"
+    },
+    {
+        "Tag": "Trident3X3",
+        "tag_description": "Trident3X3 Chipset"
+    },
+    {
+        "Tag": "Trident3X4",
+        "tag_description": "Trident3X4 Chipset"
+    },
+    {
+        "Tag": "Trident3X5",
+        "tag_description": "Trident3X5 Chipset"
+    },
+    {
+        "Tag": "Trident3X7",
+        "tag_description": "Trident3X7 Chipset"
+    },
+    {
+        "Tag": "Trident4",
+        "tag_description": "Trident4 Chipset"
+    },
+    {
+        "Tag": "Trident4X11",
+        "tag_description": "Trident4X11 Chipset"
+    },
+    {
+        "Tag": "Trident4X9",
+        "tag_description": "Trident4X9 Chipset"
+    },
+    {
+        "Tag": "TridentFamily",
+        "tag_description": ""
+    },
+    {
+        "Tag": "TridentPlus",
+        "tag_description": "Broadcom High-Capacity StrataXGS\u00ae Ethernet Switch Series with Integrated 10G Serial PHY"
+    },
+    {
+        "Tag": "TrunkEnabled",
+        "tag_description": "Trunk is enabled on the switch"
+    },
+    {
+        "Tag": "TrunkPhoneUntagged",
+        "tag_description": "switchport phone trunk untagged configured."
+    },
+    {
+        "Tag": "twiceNatEnabled",
+        "tag_description": ""
+    },
+    {
+        "Tag": "twobit-err-check",
+        "tag_description": "check for 2 bit error from logs with string FCR_Ecc_2b_ErrEcc"
+    },
+    {
+        "Tag": "TxMirroringTrunkPort",
+        "tag_description": "Tx Mirroring configured on a trunk port"
+    },
+    {
+        "Tag": "UDFpayload",
+        "tag_description": "Check if UDF payload configuration is present"
+    },
+    {
+        "Tag": "UnidirandLoopbckmode",
+        "tag_description": "unidirectional link-mode and loopback mode configured."
+    },
+    {
+        "Tag": "Unidirectional",
+        "tag_description": "unidirectional link-mode is configured."
+    },
+    {
+        "Tag": "UnidirectionalSendOnly",
+        "tag_description": "the unidirectional send-only mode configuration is appied to the interface"
+    },
+    {
+        "Tag": "unidirectionalStatus",
+        "tag_description": "Unidirectional settings are not applied when configured on a port that is down."
+    },
+    {
+        "Tag": "UpdateInterval",
+        "tag_description": "update interval is configured under monitor counters"
+    },
+    {
+        "Tag": "uRPFenabled",
+        "tag_description": "Check if uRPF has been configured on an interface"
+    },
+    {
+        "Tag": "UserBGPServiceACL",
+        "tag_description": "IPv4 User-defined BGP Service ACL configured."
+    },
+    {
+        "Tag": "usertcamprofVxlanrouting",
+        "tag_description": "Check if User Defined TCAM profile vxlan-routing-pbr or vxlan-routing-qos is configured"
+    },
+    {
+        "Tag": "Varlogfull",
+        "tag_description": "/var/log is full."
+    },
+    {
+        "Tag": "VARPEnabled",
+        "tag_description": "VARP is Configured on the device"
+    },
+    {
+        "Tag": "VarpMacConf",
+        "tag_description": "virtual-router mac-address is configured"
+    },
+    {
+        "Tag": "Varpv4v6ip",
+        "tag_description": "check if v4 and v6 varp configured on same interface"
+    },
+    {
+        "Tag": "VCSServiceEnabled",
+        "tag_description": "VXLAN Service enabled on CVX."
+    },
+    {
+        "Tag": "VfatFlash",
+        "tag_description": "File System is VFAT."
+    },
+    {
+        "Tag": "virtualIP",
+        "tag_description": "Check all interfaces for virtual IP addresses in use"
+    },
+    {
+        "Tag": "vlanAwareBundleConfigured",
+        "tag_description": "VLAN aware bundle is configured"
+    },
+    {
+        "Tag": "VlanConfiguration",
+        "tag_description": "Vlan id is configured"
+    },
+    {
+        "Tag": "VlanIntCounters",
+        "tag_description": "Check if enabled Vlan Interface counters for egress"
+    },
+    {
+        "Tag": "VlanIntCountersOut",
+        "tag_description": "Check if enabled Vlan Interface counters for egress"
+    },
+    {
+        "Tag": "VlanMapping",
+        "tag_description": "tag to indeitify vlan mapping is configured under the interface"
+    },
+    {
+        "Tag": "VlanTranslation",
+        "tag_description": "Vlan translation is enabled on the interface using switchport vlan translation command"
+    },
+    {
+        "Tag": "vmtracerEnabled",
+        "tag_description": "Check to see if VM Tracer is running"
+    },
+    {
+        "Tag": "vni-defined",
+        "tag_description": "to check if a vlan vni mapping is available under vxlan"
+    },
+    {
+        "Tag": "Voltage-135",
+        "tag_description": "Check if the system voltage is 1.35"
+    },
+    {
+        "Tag": "VplsEnabled",
+        "tag_description": "VPLS is enabled"
+    },
+    {
+        "Tag": "vrfConfigured",
+        "tag_description": "Check to see if any VRFs are in use"
+    },
+    {
+        "Tag": "VRRPEnabled",
+        "tag_description": "VRRP is Configured on the device"
+    },
+    {
+        "Tag": "VRRPonVLANconfigured",
+        "tag_description": "VRRP is configured on a VLAN interface"
+    },
+    {
+        "Tag": "VtepMACDataPath",
+        "tag_description": "Remote VTEP MAC learning is via Datapath."
+    },
+    {
+        "Tag": "VxlanController",
+        "tag_description": "The Vxlan Controller Status is Established."
+    },
+    {
+        "Tag": "vxlanDatapathLearn",
+        "tag_description": "Check if remote mac learning is via Datapath"
+    },
+    {
+        "Tag": "vxlanEnabled",
+        "tag_description": "Check if vxlan is enabled"
+    },
+    {
+        "Tag": "VxlanIGMPmembership",
+        "tag_description": "The multicast group of which the Vxlan interface is present in show ip igmp membership"
+    },
+    {
+        "Tag": "VxlanMcastDecap",
+        "tag_description": "Vxlan Multicast Decapsulation feature is configured."
+    },
+    {
+        "Tag": "VxlannotinMroute",
+        "tag_description": "The multicast group of which the Vxlan interface is not present in show ip mroute"
+    },
+    {
+        "Tag": "vxlanRouting",
+        "tag_description": "Check if vxlan routing is enabled"
+    },
+    {
+        "Tag": "vxlanRoutingProfile",
+        "tag_description": "Check if vxlan-routing-qos or vxlan-routing-pbr is configured on the switch"
+    },
+    {
+        "Tag": "VxlanSecEnabled",
+        "tag_description": "vxlan security udp-port config"
+    },
+    {
+        "Tag": "VxlanSecondaryInt",
+        "tag_description": "Check if Vxlan secondary interface ie. vVtep is configured"
+    },
+    {
+        "Tag": "VxlanUdpDefault",
+        "tag_description": "Check if the vxlan udp-port is default ie 4789"
+    },
+    {
+        "Tag": "vxlLearnRestrictUsed",
+        "tag_description": "vxlan learn restrict vtep IpAddr is configured"
+    },
+    {
+        "Tag": "Wifi-11ac-wave2",
+        "tag_description": "All platforms that are Wifi 11AC Wave 2 APs"
+    },
+    {
+        "Tag": "Wifi11AXAP",
+        "tag_description": "All platforms that are Wifi 11AX APs."
+    },
+    {
+        "Tag": "WifiAPs",
+        "tag_description": "All Wifi AP platforms."
+    },
+    {
+        "Tag": "Woodpecker",
+        "tag_description": "Woodpecker CPU Card"
+    },
+    {
+        "Tag": "XP",
+        "tag_description": "XP family"
+    },
+    {
+        "Tag": "XP80",
+        "tag_description": "XP platform."
+    },
+    {
+        "Tag": "XPAlgomatchProfile",
+        "tag_description": "XP chip is configured with algomatch profile."
+    },
+    {
+        "Tag": "ZeroMemPortChann",
+        "tag_description": "The port-channel has zero active members."
+    },
+    {
+        "Tag": "ZTPEnabled",
+        "tag_description": "Zerotouch Provisioning is enabled"
+    }
+]
