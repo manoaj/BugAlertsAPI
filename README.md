@@ -1,4 +1,4 @@
-# BugAlerts_Backend
+# BugAlertsAPI
 
 
 ## Overview
@@ -33,8 +33,8 @@ export PATH=$PATH:/path/to/your/postgresql/bin
 ### Clone the Project
 
 ```
-git clone https://github.com/your-username/BugAlerts_Backend.git
-cd BugAlerts_Backend
+git clone https://github.com/your-username/BugAlertsAPI.git
+cd BugAlertsAPI
 ```
 
 ### Add Credentials
