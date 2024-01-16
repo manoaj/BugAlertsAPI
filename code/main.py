@@ -1,5 +1,6 @@
 from ast import List
 from typing import List, Union
+import threading
 
 import paramiko
 import Cred
@@ -11,6 +12,7 @@ from sqlalchemy.orm import Session
 import crud
 import models
 import schemas
+import synchronizer
 from database import SessionLocal, engine
 from schemas import candidateCreate
 from schemas import tagCreate
@@ -40,6 +42,11 @@ def get_db():
         yield db
     finally:
         db.close()
+
+@app.on_event("startup")
+def startup_event():
+    thread = threading.Thread(target=synchronizer.synchronize_data, daemon=True)
+    thread.start()  
 
 @app.get("/getCandidate/{bug_id}")
 async def read_candidates(bug_id:int , db: Session = Depends(get_db)):
